@@ -561,7 +561,8 @@ CognitiveAtlas/cogat-doc	https://github.com/CognitiveAtlas/cogat-doc		Documentat
 CognitiveAtlas/cogat-ontology	https://github.com/CognitiveAtlas/cogat-ontology		Code to generate the ontology file (.owl) for the Cognitive Atlas	2015-06-10T23:00:07Z
 CognitiveAtlas/cogat-python	https://github.com/CognitiveAtlas/cogat-python		Python wrapper for the Cognitive Atlas RESTful API	2015-06-10T22:56:07Z
 CognitiveAtlas/cogat-similaR	https://github.com/CognitiveAtlas/cogat-similaR		R Package for calculation of ontological similarity using the Cognitive Atlas	2015-05-01T00:54:04Z
-stanford-rc/docs-farmshare	https://github.com/stanford-rc/docs-farmshare	https://stanford-rc.github.io/docs-farmshare/	Farmshare 2 Documentation base, under development	stanford-rc/docs-oak	https://github.com/stanford-rc/docs-oak	https://oak-storage.stanford.edu	Public documentation base for Oak Storage	2019-07-08T16:07:28Z
+stanford-rc/docs-farmshare	https://github.com/stanford-rc/docs-farmshare	https://stanford-rc.github.io/docs-farmshare/	Farmshare 2 Documentation base under development	2019-06-29T16:07:28Z
+stanford-rc/docs-oak	https://github.com/stanford-rc/docs-oak	https://oak-storage.stanford.edu	Public documentation base for Oak Storage	2019-07-08T16:07:28Z
 stanford-rc/docs-scg	https://github.com/stanford-rc/docs-scg		Development documentation for SCG cluster for easy collaboration	2020-08-11T17:30:44Z
 stanford-rc/gcp-cvat-stanford	https://github.com/stanford-rc/gcp-cvat-stanford		Setting up cvat on Google Cloud (Compute Engine and Managed SQL)	2020-09-30T20:24:28Z
 stanford-rc/gcp-django-stanford	https://github.com/stanford-rc/gcp-django-stanford	https://stanford-rc.github.io/gcp-django-stanford/	Getting started templates for Django applications by RSE Services	2020-07-27T17:03:03Z
