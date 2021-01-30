@@ -1,0 +1,852 @@
+NAME	URL	HOMEPAGE	DESCRIPTION	CREATED_AT
+vsoch/2-chainz	https://github.com/vsoch/2-chainz	http://juxboxhero.herokuapp.com/	🎤 An experiment in lyric generation using Markov Chains	2018-10-07T19:23:53Z
+vsoch/40-avocados	https://github.com/vsoch/40-avocados	https://vsoch.github.io/40-avocados/	Many ways I could spend $40.00	2018-10-31T03:07:45Z
+vsoch/AIM-Manuscript	https://github.com/vsoch/AIM-Manuscript		"This repo contains supporting documents for the manuscript ""Defining the AIM: An Abstraction for Improving Machine Learning Prediction"""	2018-02-15T10:28:23Z
+vsoch/airflow	https://github.com/vsoch/airflow	https://airflow.apache.org	Apache Airflow	2019-02-28T20:25:31Z
+vsoch/algorithms	https://github.com/vsoch/algorithms		hungry for some challenge and fun, so let's do that :)	2018-04-08T22:19:57Z
+vsoch/alleninf	https://github.com/vsoch/alleninf		Compare a statistical map of a brain with gene expression patterns from Allen Human Brain Atlas.	2014-10-31T22:32:14Z
+vsoch/artbrain	https://github.com/vsoch/artbrain		Got art on the brain?	2015-12-21T00:02:44Z
+vsoch/arxiv-catalog	https://github.com/vsoch/arxiv-catalog	https://vsoch.github.io/arxiv-catalog/	Let's go shopping! Or let's not, that's a terrible idea. But how about for equations? I like that much better.	2018-11-17T22:12:21Z
+vsoch/arxiv-equations	https://github.com/vsoch/arxiv-equations		looking for patterns in equation use in arxiv papers	2018-11-17T13:44:43Z
+vsoch/asciinema	https://github.com/vsoch/asciinema	https://asciinema.org	Terminal session recorder 📹	2018-04-23T13:30:14Z
+vsoch/asciiquarium	https://github.com/vsoch/asciiquarium		A docker container to run the beloved asciiquarium. Because you can't kill these fish.	2018-12-19T01:49:02Z
+vsoch/askci	https://github.com/vsoch/askci	https://vsoch.github.io/askci	version controlled knowledge base for documentation and support	2019-11-24T01:46:55Z
+vsoch/askci-term-singularity	https://github.com/vsoch/askci-term-singularity		AskCI term repository for singularity	2019-11-26T19:51:57Z
+vsoch/atac-seq-pipeline	https://github.com/vsoch/atac-seq-pipeline		ENCODE ATAC-seq pipeline	2018-07-04T21:05:10Z
+vsoch/authorSynth	https://github.com/vsoch/authorSynth	http://www.vbmis.com/bmi/authorSynth	produce a brain map that represents the brain spatial coverage published by a particular neuroscience author.	2014-08-16T19:28:46Z
+vsoch/authorSynth-www	https://github.com/vsoch/authorSynth-www		The web interface for the authorSynth collaboration tool	2014-10-08T19:21:43Z
+vsoch/avt	https://github.com/vsoch/avt		AVT is the automated version tester for post-hoc reproducible environments (under development)	2020-11-09T00:25:11Z
+vsoch/awesome-actions	https://github.com/vsoch/awesome-actions		A curated list of awesome actions to use on GitHub	2018-12-04T03:54:13Z
+vsoch/awesome-nextflow	https://github.com/vsoch/awesome-nextflow		A curated list of nextflow based pipelines	2020-08-23T21:31:29Z
+vsoch/banner-maker	https://github.com/vsoch/banner-maker		Dynamically generate svg banner with text content (flask application)	2015-06-27T23:33:24Z
+vsoch/bert-as-service	https://github.com/vsoch/bert-as-service	https://bert-as-service.readthedocs.io	Mapping a variable-length sentence to a fixed-length vector using BERT model	2019-07-21T14:49:04Z
+vsoch/better-scientific-software	https://github.com/vsoch/better-scientific-software		application materials for https://bssw.io/fellowship, applying in 2018	2018-09-14T20:59:31Z
+vsoch/bids-validator	https://github.com/vsoch/bids-validator	http://incf.github.io/bids-validator	Validator for the Brain Imaging Data Structure	2016-04-02T03:52:28Z
+vsoch/BIDShcppipelines-debug	https://github.com/vsoch/BIDShcppipelines-debug			2018-08-13T21:14:09Z
+vsoch/bison	https://github.com/vsoch/bison			2016-08-29T22:54:49Z
+vsoch/bmi-courses	https://github.com/vsoch/bmi-courses		no longer in existence, the original code to deploy my little BMI courses interface	2019-04-24T19:17:04Z
+vsoch/bodymap	https://github.com/vsoch/bodymap		developing interactive body visualization	2016-05-17T20:15:22Z
+vsoch/bogdan	https://github.com/vsoch/bogdan	https://vsoch.github.io/bogdan/	An old website I made for Ryan Bogdan, previously in Hariri Lab at Duke	2019-05-21T20:59:13Z
+vsoch/boneage	https://github.com/vsoch/boneage		A django application to demo a bone age prediction model	2017-03-15T07:22:19Z
+vsoch/boxes	https://github.com/vsoch/boxes		Sarcastic, colorful quotes for when you need them. Because why not.	2018-12-02T17:40:34Z
+vsoch/brain-browser	https://github.com/vsoch/brain-browser		web-based image viewer for local brain images	2015-08-29T23:41:41Z
+vsoch/brain-canvas	https://github.com/vsoch/brain-canvas	http://vsoch.github.io/brain-canvas	plotting 150K values from a brain image using canvas	2015-10-01T16:27:05Z
+vsoch/brain-matrix	https://github.com/vsoch/brain-matrix	http://vsoch.github.io/brain-matrix/ca.html	will you take the blue brain, or the red brain?	2015-10-01T08:30:10Z
+vsoch/brainart	https://github.com/vsoch/brainart		create a mosaic of brain images to match any image template	2015-10-23T01:35:24Z
+vsoch/brainbehavior	https://github.com/vsoch/brainbehavior			2015-07-29T23:42:07Z
+vsoch/brainhack-nidm-report	https://github.com/vsoch/brainhack-nidm-report		nidm-api report for brainhack submission to gigascience	2015-11-24T18:38:06Z
+vsoch/brainilism	https://github.com/vsoch/brainilism		Happy Holidays 2015 :)	2015-12-07T06:23:18Z
+vsoch/BrainMessage	https://github.com/vsoch/BrainMessage		Write Secret Messages into fMRI to be uncovered with Independent Component Analysis (ICA)	2013-03-31T20:30:43Z
+vsoch/brainmeta	https://github.com/vsoch/brainmeta		image-based meta analysis for neuroimaging	2015-01-19T21:35:17Z
+vsoch/brainmeta-www	https://github.com/vsoch/brainmeta-www		cloud infrastructure for evaluating image comparison methods	2015-05-05T21:41:43Z
+vsoch/brainsilouette	https://github.com/vsoch/brainsilouette	https://vsoch.github.io/brainsilouette/		2018-03-19T00:33:35Z
+vsoch/brother	https://github.com/vsoch/brother		web things for brother	2017-11-07T13:38:23Z
+vsoch/build-notes	https://github.com/vsoch/build-notes	https://vsoch.github.io/build-notes/	Notes and references for the BUILD sc project	2020-11-28T23:29:28Z
+vsoch/builder	https://github.com/vsoch/builder	https://expfactory.github.io/builder/	complete build, test and deploy pipeline template for generating an experiment container	2018-07-22T15:32:39Z
+vsoch/builder-labjs	https://github.com/vsoch/builder-labjs		drop your labjs experiments into the experiments folder, and build --> deploy !!	2018-07-15T18:15:35Z
+vsoch/builders	https://github.com/vsoch/builders	https://singularityhub.github.io/builders/	these are the build scripts run by the robot builders, chosen by the user for a given build	2018-03-20T15:10:41Z
+vsoch/caliper	https://github.com/vsoch/caliper	https://caliper-python.readthedocs.io/	Caliper is a tool for measuring and assessing change in packages.	2020-12-18T20:52:32Z
+vsoch/caliper-analysis	https://github.com/vsoch/caliper-analysis		developing grid analysis for caliper to test scripts across dependency and python versions	2021-01-02T00:23:34Z
+vsoch/caliper-metrics	https://github.com/vsoch/caliper-metrics		Metrics extracted for packages using caliper (the caliper data repository)	2020-12-20T21:32:28Z
+vsoch/carrierseq	https://github.com/vsoch/carrierseq		a sequence analysis workflow for low-input nanopore sequencing	2017-08-23T04:06:12Z
+vsoch/cdb	https://github.com/vsoch/cdb	https://vsoch.github.io/cdb/	Container database metadata extraction and data-container builder	2020-06-12T21:07:52Z
+vsoch/cegid	https://github.com/vsoch/cegid		Center for Genomic Immune Diseases (Docker)	2016-08-04T00:24:31Z
+vsoch/chat	https://github.com/vsoch/chat		a django application for real time collaborative survey taking	2017-04-25T03:28:20Z
+vsoch/chonker-awards	https://github.com/vsoch/chonker-awards	https://vsoch.github.io/chonker-awards/	A shoutout to the top chonker repositories on GitHub.	2021-01-29T20:09:54Z
+vsoch/chris-computer	https://github.com/vsoch/chris-computer		should have bought a pc... 	2015-09-11T05:20:47Z
+vsoch/chunkRank	https://github.com/vsoch/chunkRank		The Chunk Indifferent Ranking Algorithm for scoring accuracy of grouped ranked list	2015-04-14T22:39:54Z
+vsoch/circleci-orbs	https://github.com/vsoch/circleci-orbs	https://circleci.com/orbs/registry	The source code for some of the orbs published by CircleCI	2019-01-03T19:13:48Z
+vsoch/cloud-builders-community	https://github.com/vsoch/cloud-builders-community	https://cloud.google.com/cloud-build/	Community-contributed images for Google Cloud Build	2019-01-26T16:25:40Z
+vsoch/cMapParse	https://github.com/vsoch/cMapParse		Functions to select, read, and filter connectivity map (cmap) data instances, for input into a GSEA analysis	2014-04-13T21:28:58Z
+vsoch/codeart	https://github.com/vsoch/codeart	https://github.com/vsoch/codeart-examples	data visualization for code (experimental project)	2019-12-31T23:18:22Z
+vsoch/codeart-examples	https://github.com/vsoch/codeart-examples	https://vsoch.github.io/codeart-examples/parse_repo/sorted/	Separate examples repository for codeart Python module, since data and image files tend to be large.	2020-01-05T19:13:18Z
+vsoch/cogat	https://github.com/vsoch/cogat	http://www.cognitiveatlas.org	Cognitive Atlas	2015-01-24T23:32:05Z
+vsoch/cogat-app	https://github.com/vsoch/cogat-app		testing electron app for Cognitive Atlas #noob	2015-12-23T22:51:37Z
+vsoch/cogat-docker	https://github.com/vsoch/cogat-docker		testing implementation of Cognitive Atlas as neo4j served with docker, for some application	2015-12-23T20:24:13Z
+vsoch/cogat-neo4j	https://github.com/vsoch/cogat-neo4j		convert cognitive atlas dumps into neo4j graph database	2015-10-05T05:17:08Z
+vsoch/cogat-neurovault	https://github.com/vsoch/cogat-neurovault	https://vsoch.github.io/cogat-neurovault/	Flask application to show Cognitive Atlas contrasts in Neurovault	2018-06-17T22:18:56Z
+vsoch/cogatcloud	https://github.com/vsoch/cogatcloud	http://vsoch.github.io/cogatcloud	word cloud to show cognitive concepts associated with voxelwise encoding models	2016-05-26T00:09:10Z
+vsoch/cogatpheno-vm	https://github.com/vsoch/cogatpheno-vm		virtual machine deployment of CogatPheno application	2015-08-19T23:51:17Z
+vsoch/cogatvoxel	https://github.com/vsoch/cogatvoxel	http://vsoch.github.io/cogatvoxel/	Version 2 of Cognitive Atlas visualization to show concepts associated with brain region voxels	2016-04-09T20:48:12Z
+vsoch/cogat_voxel	https://github.com/vsoch/cogat_voxel	https://vsoch.github.io/cogat_voxel	voxelwise visualization (interactive Flask application) for Cognitive Atlas decoding model	2016-04-05T19:20:53Z
+vsoch/CogPheno	https://github.com/vsoch/CogPheno		Cognitive Atlas Phenotypes	2015-06-21T21:06:17Z
+vsoch/community-stanford	https://github.com/vsoch/community-stanford	https://us-rse.org/community-stanford/	The Stanford University community of Research Software Engineers	2019-06-13T17:56:17Z
+vsoch/compare-os-fun	https://github.com/vsoch/compare-os-fun		just a little fun to run on a cluster :)	2017-01-26T02:08:50Z
+vsoch/confucious-actions	https://github.com/vsoch/confucious-actions		Various actions to add confucious wisdom on pull request success, fail, etc.	2018-12-03T13:29:23Z
+vsoch/confucious-actions-example	https://github.com/vsoch/confucious-actions-example		An example of using vsoch/confucious-actions	2018-12-03T16:01:44Z
+vsoch/container	https://github.com/vsoch/container		Learning what a container is by making one	2018-10-16T23:17:21Z
+vsoch/container-diff	https://github.com/vsoch/container-diff		container-diff: Diff your Docker containers	2018-05-01T10:30:37Z
+vsoch/container-ipfs	https://github.com/vsoch/container-ipfs			2017-12-04T00:34:13Z
+vsoch/containerdb	https://github.com/vsoch/containerdb		In memory database for container metadata (under development)	2020-06-09T23:09:27Z
+vsoch/containers-story	https://github.com/vsoch/containers-story		A story of how people influence software design.	2020-11-23T06:57:51Z
+vsoch/containershare	https://github.com/vsoch/containershare	https://vsoch.github.io/containershare	open source, transparent container registry for reproducible science	2018-07-23T20:38:49Z
+vsoch/containershare-python	https://github.com/vsoch/containershare-python		python utils for working with containershare library	2018-07-30T11:42:43Z
+vsoch/containertree	https://github.com/vsoch/containertree	https://vsoch.github.io/containertree/	Github action example to deploy container-diff derived tree to Github pages, along with container metadata	2019-01-09T12:13:27Z
+vsoch/containeye	https://github.com/vsoch/containeye		general visualization and comparison metrics for containers	2016-08-02T00:41:06Z
+vsoch/continuous-build	https://github.com/vsoch/continuous-build		Show how to use continuous integration to test your dependency specifications	2018-07-17T14:43:04Z
+vsoch/contributions-django	https://github.com/vsoch/contributions-django		Django module to create GitHub style contributions graph	2020-08-03T18:13:24Z
+vsoch/convert-swf	https://github.com/vsoch/convert-swf		a container to convert swf files to mp4 (video)	2018-01-25T21:17:58Z
+vsoch/cookie-builder	https://github.com/vsoch/cookie-builder		a cookiecutter template for a repo2docker continuous build repository	2018-07-21T07:52:33Z
+vsoch/cookies	https://github.com/vsoch/cookies	https://vsoch.github.io/cookies/	the cookies dataset is an example dataset that shows turning a static repository into a JSON API standardized resources for images and text	2017-05-25T01:12:42Z
+vsoch/Cosmos-GCE	https://github.com/vsoch/Cosmos-GCE		Cluster to run on GCE for Cosmos and Genomekey	2014-02-05T00:11:12Z
+vsoch/cottontail	https://github.com/vsoch/cottontail			2016-06-09T22:37:08Z
+vsoch/cottontail-editors	https://github.com/vsoch/cottontail-editors			2016-06-09T22:24:02Z
+vsoch/countdown	https://github.com/vsoch/countdown		when is Gilfish coming home?	2016-12-16T05:56:40Z
+vsoch/coverage-check	https://github.com/vsoch/coverage-check			2016-10-28T17:15:39Z
+vsoch/cRapinator	https://github.com/vsoch/cRapinator		Rserver to run on some VM to provide programmatic access to R functions and plotting	2015-08-23T20:38:56Z
+vsoch/cromwell	https://github.com/vsoch/cromwell	http://cromwell.readthedocs.io/	Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments	2018-08-13T13:24:46Z
+vsoch/cs106b-builder	https://github.com/vsoch/cs106b-builder		a Singularity container for build and run of QT-creator projects. Does not include any project content.	2018-11-09T05:35:26Z
+vsoch/d3confusion	https://github.com/vsoch/d3confusion		interactive confusion matrix with flask and d3	2015-06-06T22:06:46Z
+vsoch/dask-jobqueue	https://github.com/vsoch/dask-jobqueue	https://jobqueue.dask.org	Deploy Dask on job schedulers like PBS, SLURM, and SGE	2020-07-26T19:16:52Z
+vsoch/data-container	https://github.com/vsoch/data-container		the dinosaur data container for interaction with dinosaur data datasets!	2018-06-01T20:27:16Z
+vsoch/datalad	https://github.com/vsoch/datalad	http://datalad.org	Keep scientific data under control with git  and git-annex	2018-09-15T15:11:48Z
+vsoch/datalad-crawler	https://github.com/vsoch/datalad-crawler	http://datalad.org	DataLad extension for tracking web resources as datasets	2018-09-15T01:21:02Z
+vsoch/datasets	https://github.com/vsoch/datasets	https://vsoch.github.io/datasets/	open source datasets for machine learning, the dinosaur datasets	2018-05-28T12:59:58Z
+vsoch/dataverse	https://github.com/vsoch/dataverse	http://dataverse.org	A data repository framework to share and publish research data.	2018-05-25T22:13:47Z
+vsoch/dataverse-docker	https://github.com/vsoch/dataverse-docker		Dataverse repository for running with Docker in Kubernetes and other Cloud services	2018-05-26T20:12:55Z
+vsoch/decoding	https://github.com/vsoch/decoding		Decoding of fMRI contrasts using neurovault images tagged with terms from the Cognitive Atlas	2015-06-13T23:46:18Z
+vsoch/deepdive	https://github.com/vsoch/deepdive	deepdive.stanford.edu	DeepDive	2015-09-01T21:05:31Z
+vsoch/deepdream-docker	https://github.com/vsoch/deepdream-docker		Docker Container for Google's DeepDream project intended for use to create open source art	2018-08-08T22:28:09Z
+vsoch/DevelopmentalEnrichment	https://github.com/vsoch/DevelopmentalEnrichment		Enrichment of disorders in brainspan Developmental data	2014-11-17T19:51:49Z
+vsoch/dinosaur-detective	https://github.com/vsoch/dinosaur-detective		look out, the dinosaur detective!	2018-08-23T02:08:03Z
+vsoch/dinosaur-dilemma	https://github.com/vsoch/dinosaur-dilemma		attempt at a fun simulation to evolve avocado eating dinosaurs	2020-01-11T18:41:03Z
+vsoch/dinosaur-lessons	https://github.com/vsoch/dinosaur-lessons		dinosaur is teaching!	2018-08-04T22:00:28Z
+vsoch/dinosaur_data	https://github.com/vsoch/dinosaur_data			2018-05-31T22:46:15Z
+vsoch/discourse	https://github.com/vsoch/discourse	https://www.discourse.org	A platform for community discussion. Free, open, simple.	2019-07-08T20:08:55Z
+vsoch/discourse-compose	https://github.com/vsoch/discourse-compose		docker-compose with discourse 	2019-07-07T21:27:15Z
+vsoch/discourse-question-answer	https://github.com/vsoch/discourse-question-answer		Discourse Question Answer Plugin	2019-07-10T14:58:28Z
+vsoch/discourse_api	https://github.com/vsoch/discourse_api		Ruby API for Discourse	2019-09-13T17:02:53Z
+vsoch/DisorderBehavior	https://github.com/vsoch/DisorderBehavior		Methods to link disorders to behaviors, and do disorder comparison	2014-11-08T23:40:48Z
+vsoch/DisorderEnrichment	https://github.com/vsoch/DisorderEnrichment		Enrichment of disorders in Allen Brain Atlas	2014-11-17T19:49:06Z
+vsoch/distribution-spec	https://github.com/vsoch/distribution-spec	https://opencontainers.org	OCI Distribution Specification	2019-02-26T17:05:14Z
+vsoch/django-colorfield	https://github.com/vsoch/django-colorfield		a small app providing a colorpicker field for django	2017-12-09T10:33:56Z
+vsoch/django-create-benchmark	https://github.com/vsoch/django-create-benchmark		benchmarking different ways to create and update a large matrix with Django + Postgres	2020-09-07T20:11:23Z
+vsoch/django-filemanager	https://github.com/vsoch/django-filemanager		A simple and standalone file manager and browser for django projects.	2020-12-13T19:24:37Z
+vsoch/django-nginx-upload	https://github.com/vsoch/django-nginx-upload		example of using nginx upload module with Django!	2018-06-16T21:53:29Z
+vsoch/django-oauth-toolkit	https://github.com/vsoch/django-oauth-toolkit		OAuth2 goodies for the Djangonauts!	2017-06-11T02:30:12Z
+vsoch/django-oci	https://github.com/vsoch/django-oci	https://vsoch.github.io/django-oci/	Open Containers distribution spec module for Django (under development)	2020-03-24T22:57:38Z
+vsoch/dna-seq	https://github.com/vsoch/dna-seq			2020-11-14T23:03:06Z
+vsoch/dna-seq-varlociraptor	https://github.com/vsoch/dna-seq-varlociraptor			2020-01-17T16:49:50Z
+vsoch/DNS	https://github.com/vsoch/DNS		Methods for analysis of Duke NeuroGenetics Study data - goal is to make connections between behavior and genes!	2014-10-18T16:35:19Z
+vsoch/docfish	https://github.com/vsoch/docfish		annotation and markup of text and images for Stanford University	2017-04-22T02:16:37Z
+vsoch/docker-builder	https://github.com/vsoch/docker-builder		vanilla CI to build a Docker image and deploy to Docker Hub	2018-07-03T10:26:32Z
+vsoch/docker-orb	https://github.com/vsoch/docker-orb	https://circleci.com/orbs/registry/orb/circleci/docker	Install/use various Docker-related tools on CircleCI	2019-09-10T21:35:37Z
+vsoch/docker-pull	https://github.com/vsoch/docker-pull		Save your Docker Hub containers from ultimate doom!	2020-08-14T19:45:57Z
+vsoch/docker-r	https://github.com/vsoch/docker-r		A small (alpine base) image with Docker and R installed.	2019-03-08T22:22:53Z
+vsoch/docker-rize	https://github.com/vsoch/docker-rize		The {rize} package to build shiny applications in Docker, a base image for CI	2019-03-09T00:45:44Z
+vsoch/docker-share	https://github.com/vsoch/docker-share	https://vsoch.github.io/docker-share	a build->test->deploy containershare template for a general Docker container https://vsoch.github.io/containershare	2018-08-01T13:15:48Z
+vsoch/docker2singularity-go	https://github.com/vsoch/docker2singularity-go		Make a singularity sandbox container from a docker registry (or other) image	2018-02-22T22:55:35Z
+vsoch/dockerfile-packages	https://github.com/vsoch/dockerfile-packages		a dinosaur dataset for 500K Docker containers and their Pip (python) and Apt (debian) packages	2019-01-20T20:58:18Z
+vsoch/docsy-jekyll	https://github.com/vsoch/docsy-jekyll	https://vsoch.github.io/docsy-jekyll/	A Jekyll version of the beautiful Docsy!	2019-07-26T21:14:48Z
+vsoch/drain-log	https://github.com/vsoch/drain-log	https://vsoch.github.io/drain-log	interactive plot and table to track daily output of JP-Drain as compared to a benchmark	2015-07-05T20:42:13Z
+vsoch/drupal-docker-compose	https://github.com/vsoch/drupal-docker-compose		An example docker-compose setup to create a development environment for an existing Drupal install	2020-03-27T22:50:47Z
+vsoch/dwv	https://github.com/vsoch/dwv	https://ivmartel.github.io/dwv/	DICOM Web Viewer: open source zero footprint medical image viewer.	2018-08-27T18:12:40Z
+vsoch/dxWDL	https://github.com/vsoch/dxWDL		Workflow Description Language compiler for the DNAnexus platform	2018-07-17T15:47:23Z
+vsoch/easter-eggs	https://github.com/vsoch/easter-eggs		Where did I leave those eggs?	2019-04-21T21:03:04Z
+vsoch/easybuild-framework	https://github.com/vsoch/easybuild-framework	http://easybuilders.github.io/easybuild/	EasyBuild is a software installation framework in Python that allows you to install software in a structured and robust way. 	2018-05-08T20:12:15Z
+vsoch/eb-singularity	https://github.com/vsoch/eb-singularity		Stuff related to integrating EasyBuild & Singularity	2018-01-24T23:27:35Z
+vsoch/elm-app-catalog	https://github.com/vsoch/elm-app-catalog		testing development of an app catalog with elm (under development)	2020-04-12T21:23:53Z
+vsoch/elm-editors	https://github.com/vsoch/elm-editors		Syntax highlighting for elm (provided here, or linked to)	2020-04-14T22:32:37Z
+vsoch/elusive-donut	https://github.com/vsoch/elusive-donut	http://vsoch.github.io/elusive-donut/	catch me if you can! nomnom	2016-06-04T03:48:14Z
+vsoch/emscripten	https://github.com/vsoch/emscripten		Getting started with emscripten!	2018-10-15T21:13:37Z
+vsoch/encode-demo-workflow	https://github.com/vsoch/encode-demo-workflow	https://vsoch.github.io/encode-demo-workflow	The ENCODE-DCC demo workflow in Snakemake (under development)	2019-08-20T20:45:42Z
+vsoch/enzo-simulation	https://github.com/vsoch/enzo-simulation		testing an enzo simulation with MPI, enzo, and Singularity	2017-05-22T23:41:43Z
+vsoch/epad-docker	https://github.com/vsoch/epad-docker		migration of docker --> docker-compose --> kubernetes for epad @ Stanford 	2018-06-07T03:15:10Z
+vsoch/example.scif	https://github.com/vsoch/example.scif	https://vsoch.github.io/example.scif	a template scientific filesystem with RNA seq tools, as an example for development	2018-06-23T20:42:36Z
+vsoch/experiment	https://github.com/vsoch/experiment		design an event or block related experiment in the browser	2015-10-05T17:03:10Z
+vsoch/experiments	https://github.com/vsoch/experiments		library of official expfactory experiments	2017-05-22T02:19:08Z
+vsoch/expfactory-analysis	https://github.com/vsoch/expfactory-analysis		analysis of results from expfactory experiments	2016-02-04T22:08:41Z
+vsoch/expfactory-battery	https://github.com/vsoch/expfactory-battery		psiturk battery template to load experiment factory experiments into	2015-11-25T19:26:20Z
+vsoch/expfactory-desktop	https://github.com/vsoch/expfactory-desktop		desktop application for the Experiment Factory (under development)	2016-06-08T00:05:59Z
+vsoch/expfactory-docker	https://github.com/vsoch/expfactory-docker		container for deploying behavioral psychology experiments	2015-12-17T04:41:55Z
+vsoch/expfactory-experiments	https://github.com/vsoch/expfactory-experiments	http://expfactory.github.io/expfactory-experiments/	javascript experiments that can be deployed to run in an experiment factory infrastructure	2015-11-25T19:50:53Z
+vsoch/expfactory-explorer	https://github.com/vsoch/expfactory-explorer		Shiny based data explorer with report templates based on field selection	2016-02-06T20:33:51Z
+vsoch/expfactory-games	https://github.com/vsoch/expfactory-games			2016-04-14T22:16:53Z
+vsoch/expfactory-python	https://github.com/vsoch/expfactory-python	http://expfactory.github.io/efactory-python	Python module for managing experiment factory javascript experiment files, batteries to deploy them to (eg, psiturk), and virtual machines to host the compilation of those things.	2015-11-26T00:37:44Z
+vsoch/expfactory-robots	https://github.com/vsoch/expfactory-robots		experiment robots for testing and previewing container experiments	2017-12-11T15:18:36Z
+vsoch/expfactory-surveys	https://github.com/vsoch/expfactory-surveys		experiment factory surveys	2016-03-26T22:00:57Z
+vsoch/expfactory-vm	https://github.com/vsoch/expfactory-vm		a virtual machine to deploy the infrastructure on amazon aws	2015-11-26T01:25:42Z
+vsoch/expfactory.github.io	https://github.com/vsoch/expfactory.github.io	http://expfactory.github.io	An infrastructure for generating custom web experiments, by Poldracklab at Stanford University	2015-11-26T01:38:33Z
+vsoch/explore_drug_database	https://github.com/vsoch/explore_drug_database	http://www.vanessasaur.us/explore_drug_database/demo/	Exploring the official french's drug database	2017-01-30T07:10:25Z
+vsoch/facepalm	https://github.com/vsoch/facepalm		Generate smiley confusion matrices. Under development!	2017-03-15T07:06:49Z
+vsoch/face_emotions	https://github.com/vsoch/face_emotions		parse library of congress images for faces, extract emotions from faces, make nice database :)	2016-06-10T20:48:36Z
+vsoch/FaderNetworks	https://github.com/vsoch/FaderNetworks		Fader Networks: Manipulating Images by Sliding Attributes - NIPS 2017	2017-12-05T02:07:45Z
+vsoch/fastq.bio	https://github.com/vsoch/fastq.bio	http://www.fastq.bio	An interactive web tool for quality control of DNA sequencing data	2019-09-12T21:19:49Z
+vsoch/find-an-rse	https://github.com/vsoch/find-an-rse		Organization wide community search to help you find an RSE (needs updating)	2019-06-13T17:09:05Z
+vsoch/findPlagarism	https://github.com/vsoch/findPlagarism		Find plagarism in text via a Google Search. You will need to tweak the input file to your specific format.	2014-10-11T20:44:53Z
+vsoch/firepad	https://github.com/vsoch/firepad		Collaborative Text Editor Powered by Firebase	2016-04-07T22:43:41Z
+vsoch/flavours-of-physics-ftw	https://github.com/vsoch/flavours-of-physics-ftw		containers-ftw version of https://www.kaggle.com/c/flavours-of-physics	2017-06-30T21:52:21Z
+vsoch/fmriprep-debug	https://github.com/vsoch/fmriprep-debug			2017-07-25T05:31:58Z
+vsoch/font-brain	https://github.com/vsoch/font-brain	https://vsoch.github.io/font-brain	font symbols for brain imaging analyses	2015-07-18T23:48:18Z
+vsoch/food-db	https://github.com/vsoch/food-db			2016-07-03T03:31:22Z
+vsoch/forward	https://github.com/vsoch/forward	https://vsoch.github.io/lessons/sherlock-singularity/	Sherlock Port Forwarding Utility	2018-07-06T22:08:40Z
+vsoch/forward-modeling-cognitive-concepts	https://github.com/vsoch/forward-modeling-cognitive-concepts			2016-08-07T21:52:39Z
+vsoch/freegenes	https://github.com/vsoch/freegenes	https://vsoch.github.io/freegenes/	FreeGenes BioNode with Django	2019-07-30T18:10:10Z
+vsoch/freegenes-python	https://github.com/vsoch/freegenes-python	https://vsoch.github.io/freegenes-python	Python API client for the FreeGenes API	2019-08-19T15:44:41Z
+vsoch/fvplay	https://github.com/vsoch/fvplay		MATLAB scripts is intended for visualizing and preparing raw data  for use with a supervised classifier	2012-03-03T05:25:06Z
+vsoch/gbmatlas.stanford.edu	https://github.com/vsoch/gbmatlas.stanford.edu		gbmatlas website from gbmatlas.stanford.edu	2016-03-05T19:52:50Z
+vsoch/gcloud-actions	https://github.com/vsoch/gcloud-actions		GitHub Actions for interacting with Google Cloud Platform	2019-01-26T23:13:52Z
+vsoch/gene-ontology	https://github.com/vsoch/gene-ontology	https://vsoch.github.io/gene-ontology	A small project from graduate school, archived.	2019-04-24T16:29:32Z
+vsoch/gene2drug	https://github.com/vsoch/gene2drug		A toolbox to find if gene sets and drugs are meaningfully related [in development]	2014-09-19T21:56:18Z
+vsoch/generative-art	https://github.com/vsoch/generative-art		learning to use Processing (Java) with Python to generate... generative art!	2020-01-23T19:59:00Z
+vsoch/genetime	https://github.com/vsoch/genetime		"predict ""important"" time periods for a list of gene probes based on RNA-seq expression"	2014-12-15T23:18:19Z
+vsoch/gil-speaks	https://github.com/vsoch/gil-speaks	https://vsoch.github.io/gil-speaks/	The things that Gil speaks.	2019-12-02T00:47:45Z
+vsoch/gileats	https://github.com/vsoch/gileats	https://vsoch.github.io/gileats	the journey, of what Gil eats	2016-08-31T19:00:48Z
+vsoch/github-deploy	https://github.com/vsoch/github-deploy		a Github Action to deploy one or more files to Github Pages	2019-01-09T23:54:05Z
+vsoch/github-dockerfiles	https://github.com/vsoch/github-dockerfiles		A dataset to extract container metadata from Github Dockerfiles (under development)	2019-01-13T00:26:09Z
+vsoch/gke-jupyter-classroom	https://github.com/vsoch/gke-jupyter-classroom	https://cloud.google.com/solutions/using-tensorflow-jupyterhub-classrooms	Google Container Engine, JupyterHub, and Jupyter for classroom scenarios	2016-10-19T19:28:30Z
+vsoch/glassbrains	https://github.com/vsoch/glassbrains	https://vsoch.github.io/glassbrains	A small script (and web interface) to show a bunch of NeuroVault glass brains, from graduate school	2019-04-25T18:50:45Z
+vsoch/globus-sample-data-portal	https://github.com/vsoch/globus-sample-data-portal		Globus Sample Data Portal	2018-01-31T23:15:45Z
+vsoch/globus-sdk-python	https://github.com/vsoch/globus-sdk-python		Globus SDK for Python	2018-04-14T07:32:17Z
+vsoch/go-algorithms	https://github.com/vsoch/go-algorithms		doop dee doo.	2019-02-26T20:39:20Z
+vsoch/go-digest	https://github.com/vsoch/go-digest	https://www.opencontainers.org/	Common digest package used across the container ecosystem	2019-02-26T18:46:15Z
+vsoch/gogs	https://github.com/vsoch/gogs	https://gogs.io	Gogs (Go Git Service) is a painless self-hosted Git service.	2016-10-04T23:17:42Z
+vsoch/google-cloud-community	https://github.com/vsoch/google-cloud-community	https://cloud.google.com/community	This repository holds the content submitted to https://cloud.google.com/community. Files added to the tutorials/ will appear at https://cloud.google.com/community/tutorials.	2019-01-24T22:20:56Z
+vsoch/google-group-export	https://github.com/vsoch/google-group-export		An interactive script to export a Google Group	2019-10-21T17:15:01Z
+vsoch/gp_fasig_scalable_radio_array	https://github.com/vsoch/gp_fasig_scalable_radio_array			2018-01-24T23:29:06Z
+vsoch/gridtest	https://github.com/vsoch/gridtest	https://vsoch.github.io/gridtest/	grid parameters and testing for Python modules and functions	2020-04-16T22:46:54Z
+vsoch/griznog	https://github.com/vsoch/griznog		Griznog, eternally trapped in Python, and a container for forever access to his wisdom.	2020-01-19T19:33:26Z
+vsoch/gsea	https://github.com/vsoch/gsea		Gene set enrichment analysis file preparation, and submission scripts to run with gsea .jar on Sherlock	2014-05-07T17:26:44Z
+vsoch/gutmap	https://github.com/vsoch/gutmap		Gut Microbiome Mapping	2014-04-13T23:44:47Z
+vsoch/halley	https://github.com/vsoch/halley		A lightweight game engine written in modern C++	2019-02-24T22:32:20Z
+vsoch/hcICA	https://github.com/vsoch/hcICA	https://vsoch.github.io/hcICA	an old independent component analysis run from graduate school using FSL melodic, also see vsoch/szICA	2019-04-25T19:03:06Z
+vsoch/hello-world	https://github.com/vsoch/hello-world		testing container for pushing to singularity-hub	2016-10-04T21:58:16Z
+vsoch/helpme	https://github.com/vsoch/helpme	https://vsoch.github.io/helpme	command line daemon for helping you out	2016-10-25T05:29:31Z
+vsoch/helpme-go	https://github.com/vsoch/helpme-go		Testing Golang app 	2017-11-23T16:04:39Z
+vsoch/highlightjs-pythonlogging	https://github.com/vsoch/highlightjs-pythonlogging		Files to add to highlightjs/highlight.js (in respective locations) to build a highlighter for Python logs	2019-10-18T12:51:15Z
+vsoch/hospital-chargemaster	https://github.com/vsoch/hospital-chargemaster	https://vsoch.github.io/hospital-chargemaster/	hospital chargemaster lists for open source healthcare	2019-01-16T17:19:18Z
+vsoch/hospital-chargemaster-analysis	https://github.com/vsoch/hospital-chargemaster-analysis		example (fun!) analysis with hospital chargemaster data	2019-02-10T18:58:05Z
+vsoch/hpc-container-maker	https://github.com/vsoch/hpc-container-maker		HPC Container Maker	2018-03-23T21:21:42Z
+vsoch/ica-	https://github.com/vsoch/ica-		Melodic + Dual Regression Package in Python	2011-09-05T16:35:17Z
+vsoch/image-comparison-thresholding	https://github.com/vsoch/image-comparison-thresholding	https://vsoch.github.io/image-comparison-thresholding	complete methods and pipeline for effects of thresholding on image similarity metrics	2015-07-09T04:24:39Z
+vsoch/image-spec	https://github.com/vsoch/image-spec	https://www.opencontainers.org/	OCI Image Format	2019-02-26T17:08:46Z
+vsoch/image-tools	https://github.com/vsoch/image-tools	https://opencontainers.org	OCI Image Tooling	2019-02-27T01:29:14Z
+vsoch/imageSearch	https://github.com/vsoch/imageSearch		image-based image search in python	2015-05-04T00:42:27Z
+vsoch/insult-go	https://github.com/vsoch/insult-go	https://vsoch.github.io/insult-go/	generate Shakespearean insults with GoLang and Web Assembly. Because why not.	2020-01-10T18:07:58Z
+vsoch/interface	https://github.com/vsoch/interface		user interface for managing containers with sregistry global client, and making recipes	2018-03-26T05:56:42Z
+vsoch/jansson	https://github.com/vsoch/jansson	http://www.digip.org/jansson/	C library for encoding, decoding and manipulating JSON data	2018-11-25T07:23:29Z
+vsoch/job	https://github.com/vsoch/job	https://vsoch.github.io/job		2016-07-20T14:15:51Z
+vsoch/josc	https://github.com/vsoch/josc		Journal of Open Source Containers	2017-11-30T16:49:13Z
+vsoch/jqkungfu	https://github.com/vsoch/jqkungfu	https://vsoch.github.io/jqkungfu/	A jq playground, written in WebAssembly	2019-09-30T21:01:59Z
+vsoch/jquery.fileDownload	https://github.com/vsoch/jquery.fileDownload	http://johnculviner.com/post/2012/03/22/Ajax-like-feature-rich-file-downloads-with-jQuery-File-Download.aspx	jQuery File Download is a cross server platform compatible jQuery plugin that allows for an Ajax-like file download experience that isn’t normally possible using the web.	2021-01-10T07:11:22Z
+vsoch/jspoop	https://github.com/vsoch/jspoop		jspoop (js parsed out of pages) will generate a standard data structure to describe javascript libraries [UNDER DEVELOPMENT]	2016-04-11T22:36:48Z
+vsoch/jsPsych	https://github.com/vsoch/jsPsych	http://www.jspsych.org	A JavaScript library for creating and running behavioral experiments in a web browser	2016-02-19T17:27:23Z
+vsoch/julia-share	https://github.com/vsoch/julia-share	https://vsoch.github.io/julia-share	Docker container (intended for Singularity container share) with jupyter+julia 	2018-08-02T06:27:00Z
+vsoch/juliart	https://github.com/vsoch/juliart		module for generating Julia Set artwork	2019-12-25T18:55:29Z
+vsoch/juliart-grid	https://github.com/vsoch/juliart-grid	https://vsoch.github.io/juliart-grid/	exploring the c (a and b) parameter space when generating Julia Sets	2019-12-27T19:01:38Z
+vsoch/juliart-says	https://github.com/vsoch/juliart-says		Generate text covered Julia Set images, either with sentences from a corpus or Markov generated content.	2019-12-28T20:42:43Z
+vsoch/kaggle	https://github.com/vsoch/kaggle	https://hub.docker.com/r/vanessa/kaggle/	use the kaggle api to create and upload a dataset (example!)	2018-06-18T04:15:15Z
+vsoch/kaggle-api	https://github.com/vsoch/kaggle-api		Official Kaggle API	2018-06-17T18:30:04Z
+vsoch/kaos	https://github.com/vsoch/kaos		Variational neural networks for Keras	2016-11-12T20:53:22Z
+vsoch/keras-r	https://github.com/vsoch/keras-r		simple container with R wrapper for Keras neural network library	2018-05-13T15:36:39Z
+vsoch/ketchup	https://github.com/vsoch/ketchup	https://vsoch.github.io/ketchup/		2018-03-19T00:15:08Z
+vsoch/knowledge-repo	https://github.com/vsoch/knowledge-repo		A next-generation curated knowledge sharing platform for data scientists and other technical professions.	2017-03-06T19:32:38Z
+vsoch/lab.js	https://github.com/vsoch/lab.js	https://lab.js.org/	Online research made easy	2018-07-14T06:56:19Z
+vsoch/learning-elm	https://github.com/vsoch/learning-elm		Learning elm on exercism!	2020-05-26T18:20:34Z
+vsoch/learning-flutter	https://github.com/vsoch/learning-flutter			2019-12-15T22:21:13Z
+vsoch/learning-golang	https://github.com/vsoch/learning-golang			2019-01-21T22:20:32Z
+vsoch/learning-rust	https://github.com/vsoch/learning-rust		*insert no idea what he's doing dog*	2019-09-07T15:14:13Z
+vsoch/learningc	https://github.com/vsoch/learningc		having some fun, learning simple C	2016-08-08T20:27:49Z
+vsoch/learningcpp	https://github.com/vsoch/learningcpp		more dinosaur learning fun!	2018-07-06T23:43:46Z
+vsoch/learnyounode	https://github.com/vsoch/learnyounode		playing around with nodejs	2016-04-24T06:52:26Z
+vsoch/lessons	https://github.com/vsoch/lessons	https://vsoch.github.io/lessons/	quick lessons for reproducible research practices	2018-05-06T10:06:35Z
+vsoch/levelmoney	https://github.com/vsoch/levelmoney	https://hub.docker.com/r/vanessa/levelmoney/	a simple app to demonstrate using level money api to show balances (spent and income)	2016-05-24T20:47:15Z
+vsoch/libpod	https://github.com/vsoch/libpod		libpod is a library used to create container pods. Home of Podman.	2019-04-11T21:13:29Z
+vsoch/little-koyejo	https://github.com/vsoch/little-koyejo		Congratulations to Sanmi and Kristine!	2016-10-06T00:28:37Z
+vsoch/lonestar5_launch	https://github.com/vsoch/lonestar5_launch		updates to parametric launcher on TACC/lonestar5	2016-04-12T19:28:24Z
+vsoch/lookout	https://github.com/vsoch/lookout		Lookout is an upstream software repository watcher built for maintaining large collections of up-to-date applications.	2020-10-02T23:18:09Z
+vsoch/lsr-political-consensus	https://github.com/vsoch/lsr-political-consensus			2016-10-22T01:14:15Z
+vsoch/make-me-a-sandwich	https://github.com/vsoch/make-me-a-sandwich		Python to javascript sandwich matching game. Becaue we need this now.	2020-08-08T23:40:05Z
+vsoch/makeamap	https://github.com/vsoch/makeamap		messing around with learning React.js	2016-05-29T00:29:38Z
+vsoch/man-opencontainers	https://github.com/vsoch/man-opencontainers	https://vsoch.github.io/man-opencontainers/	Introduction to the Open Container Initiative, and how to contribute	2019-02-23T21:18:59Z
+vsoch/mandalas-colored	https://github.com/vsoch/mandalas-colored	https://hub.docker.com/r/vanessa/mandalas/	An R experiment about Voronoi tesselation to create colored mandalas	2018-03-21T20:26:29Z
+vsoch/map2model	https://github.com/vsoch/map2model	http://bioschemas.org	map2model is a Python module for convert specification stored in GDrive files and generates the files needed to publish Bioschemas Types and Profiles to publish them in bioschemas.org page.  	2018-09-15T16:05:22Z
+vsoch/markovmeme	https://github.com/vsoch/markovmeme	https://vsoch.github.io/markovmeme	Generate memes using Markov Models	2019-12-29T20:48:53Z
+vsoch/matlab-duke	https://github.com/vsoch/matlab-duke		All of my old scripts from the Laboratory of Neurogenetics at Duke. Yes, in Matlab :O	2019-05-21T21:15:46Z
+vsoch/md_experiment	https://github.com/vsoch/md_experiment		a demo of a material design experiment (with material design light components)	2016-02-20T20:34:16Z
+vsoch/mhttc	https://github.com/vsoch/mhttc	https://vsoch.github.io/mhttc/	Mental Health Technology Health Transfer Network	2020-07-08T21:10:39Z
+vsoch/microfish	https://github.com/vsoch/microfish	http://vsoch.github.io/microfish/	Using repofish and wordfish together to understand methods in Microsoft publications makes a... microfish!	2016-05-14T20:23:45Z
+vsoch/milestone-check	https://github.com/vsoch/milestone-check		Check a GitHub branch against a milestone to see if all commits are represented (under development)	2019-08-01T22:21:34Z
+vsoch/miniconda3-docker	https://github.com/vsoch/miniconda3-docker		testing deploying miniconda3 with Docker for registry-1.docker.io	2016-09-28T23:57:11Z
+vsoch/minimal-mistakes	https://github.com/vsoch/minimal-mistakes	https://mmistakes.github.io/minimal-mistakes/	:triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.	2020-06-17T10:29:36Z
+vsoch/MIRACLextra	https://github.com/vsoch/MIRACLextra		extra atlases and data for MIRACLdev	2019-03-13T16:58:53Z
+vsoch/mkdocs-jekyll	https://github.com/vsoch/mkdocs-jekyll	https://vsoch.github.io/mkdocs-jekyll/	The Material theme from MkDocs provided as a Jekyll template, optimized for GitHub Pages	2019-06-29T14:10:11Z
+vsoch/mlflow	https://github.com/vsoch/mlflow	https://mlflow.org	Open source platform for the machine learning lifecycle	2020-10-22T21:18:00Z
+vsoch/mommy-dev	https://github.com/vsoch/mommy-dev		a container with jekyll and git	2018-07-06T09:59:58Z
+vsoch/mpileup	https://github.com/vsoch/mpileup	https://hub.docker.com/r/vanessa/mpileup/	run the parse pileup perl script using Docker	2018-06-22T22:24:24Z
+vsoch/mriqc	https://github.com/vsoch/mriqc			2015-07-08T00:19:03Z
+vsoch/mriqc-1	https://github.com/vsoch/mriqc-1	http://mriqc.readthedocs.io	The package provides a series of image processing workflows to extract and compute a series of NR (no-reference), IQMs (image quality metrics) to be used in QAPs (quality assessment protocols) for MRI (magnetic resonance imaging).	2017-02-17T20:13:18Z
+vsoch/mriqc-2	https://github.com/vsoch/mriqc-2	https://github.com/poldracklab/mriqc	This repository has moved to https://github.com/poldracklab/mriqc	2018-01-24T23:06:57Z
+vsoch/MRtools	https://github.com/vsoch/MRtools	http://vsoch.com/wiki/doku.php?id=mrtools	Module for neuroimaging data manipulation and sample applications	2012-03-17T21:26:32Z
+vsoch/mw2md.py	https://github.com/vsoch/mw2md.py		A small script to convert MediaWiki (restructured syntax?) content to markdown.	2019-07-04T18:08:16Z
+vsoch/mybrain	https://github.com/vsoch/mybrain	http://vsoch.github.io/mybrain	An interface for exploring brain functional connectivity data	2014-12-06T23:13:05Z
+vsoch/myconnectome	https://github.com/vsoch/myconnectome		Code for the myconnectome project	2015-05-21T17:01:25Z
+vsoch/myconnectome-d3	https://github.com/vsoch/myconnectome-d3		Simplified version of myconnectome d3 visualization	2014-11-23T01:53:04Z
+vsoch/myconnectome-explore	https://github.com/vsoch/myconnectome-explore		Poral interface for exploration of myconnectome data	2015-06-02T22:50:31Z
+vsoch/myconnectome-vm	https://github.com/vsoch/myconnectome-vm		Virtual machine setup for MyConnectome data analysis	2015-05-21T17:19:46Z
+vsoch/myconnectome_d3	https://github.com/vsoch/myconnectome_d3		d3 Network work for the myconnectome project	2014-11-16T05:23:51Z
+vsoch/n2g	https://github.com/vsoch/n2g	https://vsoch.github.io/n2g/	A fun project, but not very good :)	2018-03-19T00:35:08Z
+vsoch/natacha-bot	https://github.com/vsoch/natacha-bot	https://vsoch.github.io/natacha-bot/	The natacha bot has opinions about politics and art.	2020-02-21T20:18:20Z
+vsoch/neo4j-mazerunner	https://github.com/vsoch/neo4j-mazerunner		Mazerunner extends a Neo4j graph database to run scheduled big data graph compute algorithms at scale with HDFS and Apache Spark.	2016-06-05T19:37:54Z
+vsoch/nero2	https://github.com/vsoch/nero2			2018-09-05T00:28:24Z
+vsoch/NETransliteration-COLING2018	https://github.com/vsoch/NETransliteration-COLING2018		Code and data used in named entity transliteration experiments	2018-08-13T01:12:48Z
+vsoch/network-integration-vis	https://github.com/vsoch/network-integration-vis	https://vsoch.github.io/network-integration-vis		2016-09-13T19:12:37Z
+vsoch/networkx_addon	https://github.com/vsoch/networkx_addon		Some add-on modules to networkx library	2016-06-05T22:44:18Z
+vsoch/neuro2gene	https://github.com/vsoch/neuro2gene		discover genetic signature of behavior informed by neuroimaging	2014-02-13T00:51:37Z
+vsoch/neuroblackhole	https://github.com/vsoch/neuroblackhole		in loving memory of neurostars, there is still hope, but in case not, I found some of your remnants	2016-12-03T07:47:48Z
+vsoch/neurobrain	https://github.com/vsoch/neurobrain		name TBD; a npm installable neuroimaging viewer, hopefully	2018-08-23T21:18:11Z
+vsoch/neuropower	https://github.com/vsoch/neuropower		sample size calculations for fMRI	2016-04-15T20:25:51Z
+vsoch/neurosynth	https://github.com/vsoch/neurosynth		Neurosynth core tools	2018-08-19T06:36:31Z
+vsoch/neurosynth-nlp	https://github.com/vsoch/neurosynth-nlp		deepdive + neurosynth for inference	2015-09-03T03:57:43Z
+vsoch/NeuroVault	https://github.com/vsoch/NeuroVault	neurovault.org	Easy to use web database for statistical maps.	2014-12-17T19:36:56Z
+vsoch/neurovault-annotation	https://github.com/vsoch/neurovault-annotation		an annotation portal demo (eventually) using hypothes.is	2015-08-20T21:53:22Z
+vsoch/neurovault_puppet	https://github.com/vsoch/neurovault_puppet		Puppet installation and configuration for Neurovault	2014-11-14T20:37:27Z
+vsoch/nextbio	https://github.com/vsoch/nextbio		Preprocessing module functions for nextbio output files	2014-03-20T05:20:10Z
+vsoch/nextflow	https://github.com/vsoch/nextflow	http://nextflow.io	A DSL for data-driven computational pipelines	2018-02-17T20:26:53Z
+vsoch/ngs_containers	https://github.com/vsoch/ngs_containers		set of singularity containers for NGS pipelines	2018-04-06T17:00:34Z
+vsoch/nidm-api	https://github.com/vsoch/nidm-api		A restful api and client for NIDM	2015-10-24T21:44:19Z
+vsoch/nidm-neo4j	https://github.com/vsoch/nidm-neo4j		Testing viewing of NIDM-Results with Neo4j Graph	2015-10-13T01:06:29Z
+vsoch/nidm-query	https://github.com/vsoch/nidm-query		A repository of NIDM queries	2015-10-24T21:35:02Z
+vsoch/nidmviewer	https://github.com/vsoch/nidmviewer	http://vsoch.github.io/nidmviewer/	NIDM Results Viewer	2015-10-10T23:35:32Z
+vsoch/nifti-drop	https://github.com/vsoch/nifti-drop	http://vsoch.github.io/nifti-drop	a playground for visualizing and working with nifti images without a server	2015-09-13T00:52:40Z
+vsoch/nifti-image	https://github.com/vsoch/nifti-image		polymer element for working with nifti in the browser	2015-11-20T21:03:05Z
+vsoch/niindex	https://github.com/vsoch/niindex	https://vsoch.github.io/niindex/	brain image directory browsing	2015-08-28T19:53:21Z
+vsoch/nipy	https://github.com/vsoch/nipy		nipy site redesign	2015-07-26T17:11:46Z
+vsoch/nipy-jekyll	https://github.com/vsoch/nipy-jekyll			2015-08-09T22:43:06Z
+vsoch/nipy.github.com	https://github.com/vsoch/nipy.github.com	http://nipy.org	Placeholder github project pages	2015-07-25T09:27:33Z
+vsoch/nkg	https://github.com/vsoch/nkg		historical NKG Gallery Website (2012) for archive	2018-06-16T13:44:01Z
+vsoch/noisecloud	https://github.com/vsoch/noisecloud		feature database for fMRI ICA components	2013-10-04T19:02:30Z
+vsoch/noisecloud-www	https://github.com/vsoch/noisecloud-www	https://vsoch.github.io/noisecloud-www/	deprecated web interface for noisecloud (previously wordpress) interface	2019-04-24T17:29:30Z
+vsoch/noob-spark	https://github.com/vsoch/noob-spark		learning spark with python	2016-05-01T00:13:21Z
+vsoch/notes-jekyll	https://github.com/vsoch/notes-jekyll	https://vsoch.github.io/notes-jekyll/	A jekyll theme optimized for reference management and note taking	2020-11-27T21:37:03Z
+vsoch/nsynth2ca	https://github.com/vsoch/nsynth2ca	https://vsoch.github.io/nsynth2ca/	A simple mapping of the neurosynth database terms to the cognitive atlas	2014-09-30T23:04:45Z
+vsoch/nu-plugin	https://github.com/vsoch/nu-plugin		GoLang library for creating nushell plugins (under development!)	2019-10-22T19:57:27Z
+vsoch/nushell	https://github.com/vsoch/nushell		A modern shell written in Rust	2019-08-25T20:15:00Z
+vsoch/nushell-debian	https://github.com/vsoch/nushell-debian		Debian build (based on nushell/nushell) for nu! (under development)	2019-09-30T21:53:47Z
+vsoch/nushell-plugin-len	https://github.com/vsoch/nushell-plugin-len		An example ls plugin for nushell using golang	2019-10-14T22:08:58Z
+vsoch/nushell-plugin-pokemon	https://github.com/vsoch/nushell-plugin-pokemon		An example plugin for Nushell in Python that catches ascii pokemon	2019-10-18T18:50:23Z
+vsoch/nushell-plugin-python	https://github.com/vsoch/nushell-plugin-python		Python module for easy creation of nushell plugins	2019-10-23T19:09:45Z
+vsoch/oci-contribution	https://github.com/vsoch/oci-contribution		background and examples for how to contribute to the Open Containers Initiative (OCI)	2019-02-20T19:28:54Z
+vsoch/oci-python	https://github.com/vsoch/oci-python	https://vsoch.github.io/oci-python/	Python implementation of Open Containers Initiative (OCI) specifications	2019-10-27T21:45:33Z
+vsoch/ohbm	https://github.com/vsoch/ohbm	http://ohbm.readthedocs.io	python api wrapper for the ohbm conference	2016-07-15T00:10:10Z
+vsoch/ood-compose	https://github.com/vsoch/ood-compose		Docker compose to bring up Open OnDemand with SLURM, Centos 7	2019-06-25T17:05:05Z
+vsoch/open-science-knowledge-base	https://github.com/vsoch/open-science-knowledge-base	https://how-to-open.science/	An annotated collection of practical resources for researchers interested in using open practices.	2018-06-28T17:40:23Z
+vsoch/opendrift	https://github.com/vsoch/opendrift		Open source framework for ocean trajectory modelling	2018-06-26T00:24:39Z
+vsoch/openldap	https://github.com/vsoch/openldap			2017-10-24T17:40:10Z
+vsoch/opensource-art	https://github.com/vsoch/opensource-art	https://vsoch.github.io/opensource-art/	open source, collaborative art generation that combines hand and machine	2018-08-08T18:15:53Z
+vsoch/opensource-heartbeat	https://github.com/vsoch/opensource-heartbeat	https://vsoch.github.io/opensource-heartbeat/	Opensource Heartbeat Interface for user @vsoch! Generate your own with https://github.com/rseng/opensource-heartbeat-action	2020-08-19T19:07:52Z
+vsoch/opensource-lab	https://github.com/vsoch/opensource-lab	https://vsoch.github.io/opensource-lab/	documentation for my vision of an opensource software development and teaching layer for academic science	2018-11-12T00:53:56Z
+vsoch/openyoureyes	https://github.com/vsoch/openyoureyes		my current favorite song :)	2015-12-22T19:11:26Z
+vsoch/org	https://github.com/vsoch/org	https://opencontainers.org	Centralized documents and information for the OCI organization and projects	2019-03-21T15:16:53Z
+vsoch/os	https://github.com/vsoch/os		having fun trying to create a simple OS	2018-04-30T10:37:16Z
+vsoch/os-tutorial	https://github.com/vsoch/os-tutorial		How to create an OS from scratch	2018-05-04T20:38:54Z
+vsoch/oscookie	https://github.com/vsoch/oscookie		a toy example of using singularity and singularity python to compare operating systems and software	2017-01-17T02:47:24Z
+vsoch/owl2neo	https://github.com/vsoch/owl2neo		Testing converting an owl file to neo4j graph, for visualization purposes	2015-10-28T00:42:33Z
+vsoch/pannellum	https://github.com/vsoch/pannellum	https://pannellum.org/	Pannellum is a lightweight, free, and open source panorama viewer for the web.	2019-08-07T13:40:50Z
+vsoch/Papaya	https://github.com/vsoch/Papaya		A pure JavaScript medical research image viewer. 	2015-01-04T01:04:58Z
+vsoch/particles	https://github.com/vsoch/particles	https://vsoch.github.io/particles/		2018-03-19T00:24:30Z
+vsoch/pe-predictive	https://github.com/vsoch/pe-predictive			2016-10-02T20:29:35Z
+vsoch/penrose	https://github.com/vsoch/penrose	http://penrose.ink	Create beautiful diagrams just by typing mathematical notation in plain text.	2018-11-22T00:39:12Z
+vsoch/penrose.github.io	https://github.com/vsoch/penrose.github.io	https://penrose.github.io	Documentation pages for penrose (under development)	2018-11-27T15:49:35Z
+vsoch/pipeline-template	https://github.com/vsoch/pipeline-template		cookiecutter template for encode pipeline (testing)	2018-07-18T11:50:33Z
+vsoch/pipelines-metadata	https://github.com/vsoch/pipelines-metadata			2018-07-18T22:21:14Z
+vsoch/playground	https://github.com/vsoch/playground		A learning repository for contributors that are new to GitHub (under development)	2020-02-08T18:30:42Z
+vsoch/podcasts	https://github.com/vsoch/podcasts	https://jumpingrivers.github.io/podcasts/	A collection of Data Science and Statistics podcasts	2018-08-30T01:00:30Z
+vsoch/pokemon	https://github.com/vsoch/pokemon		ascii database of pokemon... in python!	2016-07-24T10:50:57Z
+vsoch/pokemon-server	https://github.com/vsoch/pokemon-server		I don't even know.	2017-01-19T12:10:32Z
+vsoch/poldracklab-launch	https://github.com/vsoch/poldracklab-launch		a launcher module for slurm jobs on the TACC wrangler cluster	2015-10-03T01:01:33Z
+vsoch/PolymerMapsCodelab	https://github.com/vsoch/PolymerMapsCodelab		testing Polymer and material design... web components ftw!	2015-11-19T23:26:29Z
+vsoch/PolymerVizCodeLab	https://github.com/vsoch/PolymerVizCodeLab		testing generating data points with canvas on a map (should be extendable to brain images!)	2015-11-20T20:03:05Z
+vsoch/post-merge-message	https://github.com/vsoch/post-merge-message		A GitHub action to post a message to the user after a pull request is merged	2019-05-01T17:24:08Z
+vsoch/potapov_interpolation	https://github.com/vsoch/potapov_interpolation	http://potapov-interpolation.readthedocs.io/en/latest/	The purpose of this package is to characterize a network of optical components when time delays with feedback are present. 	2016-06-26T00:10:05Z
+vsoch/potpourri	https://github.com/vsoch/potpourri	https://vsoch.github.io/potpourri/	a long last graduate school project that amounted to nothing (but had a good name)	2019-04-24T18:56:35Z
+vsoch/presentation-template	https://github.com/vsoch/presentation-template		A LaTeX Beamer template for presentations using the Metropolis theme.	2018-10-07T03:37:10Z
+vsoch/project-template	https://github.com/vsoch/project-template	https://www.opencontainers.org/	Template Files for New OCI Projects	2019-02-26T18:59:40Z
+vsoch/PRoot	https://github.com/vsoch/PRoot	http://proot.me	chroot, mount --bind, and binfmt_misc without privilege/setup	2016-06-10T19:35:35Z
+vsoch/prostate	https://github.com/vsoch/prostate		prostate cancer re-ocurrence and survival prediction app for shinyapps.io	2015-10-06T00:54:06Z
+vsoch/prostate-docker	https://github.com/vsoch/prostate-docker		Dockerized prostate cancer re-ocurrence and survival prediction app	2016-06-15T22:20:40Z
+vsoch/PubBrain	https://github.com/vsoch/PubBrain			2016-06-15T21:56:34Z
+vsoch/PUBMEDLib	https://github.com/vsoch/PUBMEDLib		Create Madlibs from Pubmed articles (project from 2014)	2021-01-28T17:13:50Z
+vsoch/pull-request-action	https://github.com/vsoch/pull-request-action	https://github.com/marketplace/actions/pull-request-on-branch-push	open a pull request when a branch is pushed or updated	2019-01-31T23:21:34Z
+vsoch/pull-request-action-example	https://github.com/vsoch/pull-request-action-example		Example for using the GitHub action for pull requests	2020-02-05T17:03:08Z
+vsoch/pull-request-action-test	https://github.com/vsoch/pull-request-action-test		testing repo for pull request action	2019-05-21T08:45:43Z
+vsoch/puzzles	https://github.com/vsoch/puzzles		robot puzzle solver, maybe	2018-10-20T23:49:47Z
+vsoch/pybraincompare	https://github.com/vsoch/pybraincompare		brain image comparison and visualization methods for python!	2014-12-23T01:04:30Z
+vsoch/pyCorr	https://github.com/vsoch/pyCorr	https://vsoch.github.io/pyCorr/	Nifti Template Matching in Python	2011-09-05T16:55:14Z
+vsoch/pydeface	https://github.com/vsoch/pydeface		defacing utility for MRI images	2015-12-07T19:10:44Z
+vsoch/pydicom	https://github.com/vsoch/pydicom		Read, modify and write DICOM files with python code	2017-07-08T22:40:11Z
+vsoch/pynetdicom	https://github.com/vsoch/pynetdicom	 https://pythonhosted.org/pynetdicom/index.html	A pure python library implementing the DICOM network protocol	2017-05-20T22:38:44Z
+vsoch/pynetdicom3	https://github.com/vsoch/pynetdicom3		A Python 2.7/3+ implementation of the DICOM networking protocol	2017-05-19T21:30:04Z
+vsoch/pyneurovault	https://github.com/vsoch/pyneurovault	http://www.neurovault.org/api-docs	python wrapper for NeuroVault api (in dev)	2015-11-14T20:09:50Z
+vsoch/pyout	https://github.com/vsoch/pyout		Terminal styling for structured data	2020-05-12T22:56:21Z
+vsoch/pypigraph	https://github.com/vsoch/pypigraph			2016-04-22T23:22:27Z
+vsoch/pypop	https://github.com/vsoch/pypop	http://pypop.org	Python for Population Genomics	2017-06-16T00:31:44Z
+vsoch/python-api-core	https://github.com/vsoch/python-api-core	https://googleapis.dev/python/google-api-core/latest		2020-08-11T19:04:45Z
+vsoch/python-brain-viewer	https://github.com/vsoch/python-brain-viewer	https://vsoch.github.io/python-brain-viewer/	a flask application to dynamically render brain slices	2015-06-18T20:15:23Z
+vsoch/qc_pipeline	https://github.com/vsoch/qc_pipeline			2015-11-09T16:56:11Z
+vsoch/qme	https://github.com/vsoch/qme	https://vsoch.github.io/qme/	QueueMe is a job queue, manager, and dashboard	2020-05-13T17:33:04Z
+vsoch/qt-creator	https://github.com/vsoch/qt-creator		trying to build qt-creator into a Docker container for easy usage.	2018-07-02T23:55:41Z
+vsoch/quality-assessment-protocol	https://github.com/vsoch/quality-assessment-protocol		Scripts and documentation for the PCP's protocol for assessing data quality.	2015-11-11T02:18:08Z
+vsoch/quality-improvement-example	https://github.com/vsoch/quality-improvement-example	https://vsoch.github.io/quality-improvement-example/quality_improvement.html	quality improvement in R example for Jane	2016-08-05T00:34:03Z
+vsoch/quay	https://github.com/vsoch/quay		Build, Store, and Distribute your Applications and Containers	2020-10-12T22:53:07Z
+vsoch/quiz	https://github.com/vsoch/quiz	https://gophercises.com	Ex 1 - Run timed quizzes via the command line	2018-02-04T20:43:32Z
+vsoch/r-docker-ex	https://github.com/vsoch/r-docker-ex		A simple example of using R with docker	2018-01-22T21:04:26Z
+vsoch/rawr	https://github.com/vsoch/rawr		I don't even know.	2016-12-24T07:00:01Z
+vsoch/react-pdf-highlighter	https://github.com/vsoch/react-pdf-highlighter	https://agentcooper.github.io/react-pdf-highlighter	Set of React components for PDF annotation	2020-11-26T23:56:21Z
+vsoch/regression-wasm	https://github.com/vsoch/regression-wasm	https://vsoch.github.io/regression-wasm/	Testing doing basic regression with web assembly	2019-10-02T16:20:07Z
+vsoch/repo2docker	https://github.com/vsoch/repo2docker	https://repo2docker.readthedocs.io	Turn git repositories into Jupyter enabled Docker Images	2018-07-16T07:54:32Z
+vsoch/repo2docker-conda	https://github.com/vsoch/repo2docker-conda	https://vsoch.github.io/repo2docker-conda/	a build->test->deploy containershare template for a conda container https://vsoch.github.io/containershare	2018-08-10T04:59:09Z
+vsoch/repo2docker-julia	https://github.com/vsoch/repo2docker-julia	https://vsoch.github.io/repo2docker-julia/	build a repo2docker container with jupyter and julia, containershare ready! https://vsoch.github.io/containershare	2018-08-05T14:16:56Z
+vsoch/repo2docker-jupyterlab	https://github.com/vsoch/repo2docker-jupyterlab	https://vsoch.github.io/repo2docker-jupyterlab	a build->test->deploy containershare template for a jupyterlab container https://vsoch.github.io/containershare	2018-08-11T11:13:07Z
+vsoch/repo2docker-keras	https://github.com/vsoch/repo2docker-keras	https://vsoch.github.io/repo2docker-keras/	a repo2docker image with keras installed along tensorflow	2018-07-23T22:41:54Z
+vsoch/repo2docker-r	https://github.com/vsoch/repo2docker-r	https://vsoch.github.io/repo2docker-r/	a template for sharing a repo2docker R container, intended for use with https://vsoch.github.io/containershare	2018-08-10T09:26:44Z
+vsoch/repo2docker-share	https://github.com/vsoch/repo2docker-share	https://vsoch.github.io/repo2docker-share	a template for sharing a repo2docker container, intended for use with https://vsoch.github.io/containershare	2018-07-29T19:50:45Z
+vsoch/repofish	https://github.com/vsoch/repofish		search github repos for python functions and generate standard data structures for them	2016-03-16T21:07:46Z
+vsoch/repofish-visualization	https://github.com/vsoch/repofish-visualization			2016-04-24T01:09:47Z
+vsoch/repos-list	https://github.com/vsoch/repos-list		Export a tab separated file of all of your GitHub repos.	2021-01-30T18:55:08Z
+vsoch/reproducibility-ci	https://github.com/vsoch/reproducibility-ci			2015-08-15T22:54:17Z
+vsoch/resource-explorer	https://github.com/vsoch/resource-explorer	https://vsoch.github.io/resource-explorer/	Select a resource or service based on filtering down criteria	2019-09-11T19:12:37Z
+vsoch/resource-saver	https://github.com/vsoch/resource-saver	https://vsoch.github.io/resource-saver/	use service-worker to save temporary images, style sheets and scripts, and links	2016-07-10T23:27:53Z
+vsoch/results-watcher	https://github.com/vsoch/results-watcher	https://vsoch.github.io/watchme/watchers/results/#1-the-from-env-task	an example watchme watcher that grabs variables from the environment, and saves to git as a database	2019-05-08T20:17:24Z
+vsoch/reverse-inference	https://github.com/vsoch/reverse-inference			2015-09-21T01:17:32Z
+vsoch/reverse-inference-ci	https://github.com/vsoch/reverse-inference-ci		perform reverse inference for a query image against NeuroVault images tagged with Cognitive Atlas concepts	2016-01-09T01:53:47Z
+vsoch/rize-circle	https://github.com/vsoch/rize-circle		testing building rize (r shiny docker containers)	2019-03-09T02:08:50Z
+vsoch/rize-orb	https://github.com/vsoch/rize-orb		a CircleCI orb to use {rize} to build a container with a shiny application	2019-03-09T20:55:29Z
+vsoch/rnatoy.scif	https://github.com/vsoch/rnatoy.scif		A proof of concept RNA-Seq pipeline with Nextflow	2017-01-29T04:08:46Z
+vsoch/robotname	https://github.com/vsoch/robotname		the robot namer	2018-02-11T17:47:19Z
+vsoch/robots	https://github.com/vsoch/robots	https://vsoch.github.io/robots/	I got distracted 10 hours ago, and this is what happened.	2017-08-30T04:45:50Z
+vsoch/rstudio-neuro	https://github.com/vsoch/rstudio-neuro		Dockerized rstudio with some statistics and neuro packages!	2018-01-31T21:30:07Z
+vsoch/ruishu.github.io	https://github.com/vsoch/ruishu.github.io		My website	2016-12-27T06:44:50Z
+vsoch/runc	https://github.com/vsoch/runc	https://www.opencontainers.org/	CLI tool for spawning and running containers according to the OCI specification	2018-02-21T17:26:58Z
+vsoch/RunestoneServer	https://github.com/vsoch/RunestoneServer	http://runestoneinteractive.org	Interactive books for computer science	2019-04-26T21:51:56Z
+vsoch/runtime-spec	https://github.com/vsoch/runtime-spec	http://www.opencontainers.org	OCI Runtime Specification	2019-02-26T17:01:24Z
+vsoch/runtime-tools	https://github.com/vsoch/runtime-tools	https://www.opencontainers.org/	OCI Runtime Tools	2019-02-26T18:36:25Z
+vsoch/rustarok	https://github.com/vsoch/rustarok		Multiplayer, fast-paced Moba style game	2019-09-30T21:15:49Z
+vsoch/salad	https://github.com/vsoch/salad	https://vsoch.github.io/salad	If you fork this repo... you'll have a salad fork.	2018-01-24T22:28:25Z
+vsoch/salted-caramel	https://github.com/vsoch/salted-caramel	https://vsoch.github.io/salted-caramel	The years may pass, as you know where they went, you'll never know bouts of sad, joy, or glory you are never too old for a story!  Happy Birthday, I do wish. to my most favorite of fish.	2016-08-18T20:15:31Z
+vsoch/sb-admin-jekyll	https://github.com/vsoch/sb-admin-jekyll	https://vsoch.github.io/sb-admin-jekyll/	Bootstrap 4 theme, sb-admin, Jekyll version	2019-08-09T21:03:10Z
+vsoch/SciEngCloud.github.io	https://github.com/vsoch/SciEngCloud.github.io		Cloud Computing for Science and Engineering web site	2017-06-22T19:22:12Z
+vsoch/scif	https://github.com/vsoch/scif	https://sci-f.github.io/	scientific filesystem: a filesystem organization for scientific software and metadata	2018-01-01T18:33:03Z
+vsoch/scipaper-snakemake-2020	https://github.com/vsoch/scipaper-snakemake-2020		SciPaper project.	2020-09-29T15:11:01Z
+vsoch/search	https://github.com/vsoch/search	https://vsoch.github.io/search	a search interface for any user account or organization	2020-02-28T23:26:30Z
+vsoch/segvg	https://github.com/vsoch/segvg		Create interactive svg of brain map segmentation	2015-12-29T06:02:58Z
+vsoch/selinux	https://github.com/vsoch/selinux	https://www.opencontainers.org/	common selinux implementation	2019-02-26T18:50:59Z
+vsoch/semantic-image-comparison	https://github.com/vsoch/semantic-image-comparison	http://vsoch.github.io/semantic-image-comparison-web/	reproducible pipeline to go along with work for semantic-image-comparison	2016-01-02T19:36:52Z
+vsoch/semantic-image-comparison-ci	https://github.com/vsoch/semantic-image-comparison-ci		continuous integration to deploy updated version of cognitive atlas concept tree and neurovault images tagged to it	2016-01-06T22:53:43Z
+vsoch/semantic-image-comparison-web	https://github.com/vsoch/semantic-image-comparison-web		web interface to view images from neurovault tagged with cognitive atlas concepts	2016-01-06T21:57:29Z
+vsoch/sentencespace	https://github.com/vsoch/sentencespace	https://www.robinsloan.com/voyages-in-sentence-space/	Generating gradients, exploring neighborhoods.	2018-03-04T06:52:01Z
+vsoch/service-worker	https://github.com/vsoch/service-worker		testing service workers	2016-07-10T20:27:25Z
+vsoch/serving	https://github.com/vsoch/serving	https://www.tensorflow.org/serving	A flexible, high-performance serving system for machine learning models	2017-08-08T16:15:32Z
+vsoch/sherlock_vep	https://github.com/vsoch/sherlock_vep	https://vsoch.github.io/sherlock_vep/		2018-03-14T21:53:46Z
+vsoch/shifter	https://github.com/vsoch/shifter		Shifter - Linux Containers for HPC	2016-04-07T21:02:52Z
+vsoch/Shifter-Tutorial	https://github.com/vsoch/Shifter-Tutorial		Collection of tutorials for using Shifter to bring containers to HPC	2018-02-22T17:03:57Z
+vsoch/shiny	https://github.com/vsoch/shiny			2016-02-06T21:04:49Z
+vsoch/shoes	https://github.com/vsoch/shoes		Let's get some shoes!	2019-04-25T16:20:27Z
+vsoch/sh_containers	https://github.com/vsoch/sh_containers		containers and instructions for running interactive notebooks via job submission (slurm)	2018-04-02T17:51:30Z
+vsoch/sh_login	https://github.com/vsoch/sh_login	https://vsoch.github.io/sh_login/	simple login wrapper for token entry to web applications	2018-04-03T20:41:49Z
+vsoch/sifweb	https://github.com/vsoch/sifweb	https://vsoch.github.io/sifweb	Testing loading a SIF into a browser using Web Assembly (under development)	2019-09-21T18:13:54Z
+vsoch/signal-processing	https://github.com/vsoch/signal-processing		A quick matlab demo of signal processing	2012-08-09T21:28:13Z
+vsoch/simfish	https://github.com/vsoch/simfish		Fish tank simulator	2018-07-19T04:08:32Z
+vsoch/simvascular	https://github.com/vsoch/simvascular		testing Docker (Singularity) container with SimVascular	2018-11-30T20:48:54Z
+vsoch/singularity	https://github.com/vsoch/singularity	http://singularity.lbl.gov/	Singularity: Application containers for Linux	2016-10-24T19:48:50Z
+vsoch/singularity-builder	https://github.com/vsoch/singularity-builder		packer image configuration for builder images for different platforms	2017-04-13T09:12:15Z
+vsoch/singularity-butterfly	https://github.com/vsoch/singularity-butterfly		butterfly server packaged in singularity container	2017-04-02T23:52:50Z
+vsoch/singularity-clair	https://github.com/vsoch/singularity-clair		testing running clair with a singularity image	2017-07-23T21:31:51Z
+vsoch/singularity-cli	https://github.com/vsoch/singularity-cli	https://singularityhub.github.io/singularity-cli/	streamlined singularity python client (spython) for singularity builders and general use (under development!)	2018-03-11T19:06:53Z
+vsoch/singularity-images	https://github.com/vsoch/singularity-images		This is a repository for Singularity container base OS images	2016-06-19T23:27:39Z
+vsoch/singularity-learning	https://github.com/vsoch/singularity-learning		testing singularity, learning singularity, run containers without sudo awesome!!	2016-06-07T21:15:50Z
+vsoch/singularity-nbconvert	https://github.com/vsoch/singularity-nbconvert		Singularity container with nbconvert for conversion of jupyter notebooks to other formats	2017-10-20T10:55:15Z
+vsoch/singularity-nginx	https://github.com/vsoch/singularity-nginx		web application to serve (simple) singularity images	2017-03-17T19:59:22Z
+vsoch/singularity-python	https://github.com/vsoch/singularity-python		command line tool for working with singularity hub and singularity containers	2016-12-26T21:30:07Z
+vsoch/singularity-scientific-example	https://github.com/vsoch/singularity-scientific-example	https://vsoch.github.io/singularity-scientific-example/results/	example analysis with Singularity Hub and Docker containers run on local HPC and cloud providers	2016-12-01T01:53:51Z
+vsoch/singularity-shiny	https://github.com/vsoch/singularity-shiny		a quick shiny server in a Singularity Container. For @griznog!	2018-04-07T00:04:48Z
+vsoch/singularity-tools	https://github.com/vsoch/singularity-tools		collection of command line tools for working with Singularity and Docker	2016-06-20T17:24:48Z
+vsoch/singularity-web	https://github.com/vsoch/singularity-web		examples of using Singularity containers for web-based products	2016-11-27T21:48:13Z
+vsoch/singularityware.github.io	https://github.com/vsoch/singularityware.github.io	https://singularityware.github.io	base documentation site for Singularity software	2017-08-22T01:00:24Z
+vsoch/singularity_recipes	https://github.com/vsoch/singularity_recipes			2018-04-13T23:46:06Z
+vsoch/slurm-web	https://github.com/vsoch/slurm-web	http://edf-hpc.github.io/slurm-web/	Slurm HPC workload manager web JS dashboard and JSON REST API	2018-09-10T22:58:05Z
+vsoch/snakemake	https://github.com/vsoch/snakemake	https://snakemake.readthedocs.io	This is the development home of the workflow management system Snakemake. For general information, see	2019-10-13T16:10:06Z
+vsoch/snakemake-wrappers	https://github.com/vsoch/snakemake-wrappers	https://snakemake-wrappers.readthedocs.io	This is the development home of the Snakemake wrapper repository, see	2020-07-30T22:53:05Z
+vsoch/snowstorm	https://github.com/vsoch/snowstorm	https://vsoch.github.io/snowstorm/		2018-03-19T00:11:56Z
+vsoch/som	https://github.com/vsoch/som	https://vsoch.github.io/som	Stanford open modules for python	2017-01-22T01:40:55Z
+vsoch/som-django	https://github.com/vsoch/som-django		A base framework for applications that use the Stanford School of Medicine APIs	2017-03-14T21:35:25Z
+vsoch/som-orthanc	https://github.com/vsoch/som-orthanc		A Docker base for running Orthanc for the School of Medicine	2017-06-02T23:49:04Z
+vsoch/sorting_stat	https://github.com/vsoch/sorting_stat		A Hogwarts style Twitter account sorter	2018-01-04T04:44:58Z
+vsoch/sorting_stat_1	https://github.com/vsoch/sorting_stat_1			2018-01-04T04:26:23Z
+vsoch/soylent	https://github.com/vsoch/soylent	https://vsoch.github.io/soylent/	mmmm 	2018-03-19T00:20:19Z
+vsoch/spack	https://github.com/vsoch/spack	https://spack.io	A flexible package manager that supports multiple versions, configurations, platforms, and compilers.	2020-12-10T19:48:39Z
+vsoch/spark-neo4j	https://github.com/vsoch/spark-neo4j	https://registry.hub.docker.com/u/kbastani/spark-neo4j/	A single docker image that combines Neo4j Mazerunner and Apache Spark GraphX into a powerful all-in-one graph processing engine	2015-12-23T20:10:32Z
+vsoch/spec	https://github.com/vsoch/spec	https://ocfl.io	The OCFL Specifications (WIP)	2018-08-30T21:33:29Z
+vsoch/specifications	https://github.com/vsoch/specifications		Main bioschemas repository	2018-09-15T16:03:29Z
+vsoch/srcc-services	https://github.com/vsoch/srcc-services		potential draft for SRCC services	2018-11-20T20:41:30Z
+vsoch/srcc-uservoice	https://github.com/vsoch/srcc-uservoice	https://vsoch.github.io/srcc-uservoice/	python api wrapper for uservoice client for Stanford Research Computing	2016-09-30T22:16:39Z
+vsoch/sregistry-cli	https://github.com/vsoch/sregistry-cli	https://singularityhub.github.io/sregistry-cli/	Singularity Global Client for container management	2018-03-29T23:28:37Z
+vsoch/sregistry-k8	https://github.com/vsoch/sregistry-k8		learning / testing Kubernetes with kind, why not :)	2019-07-30T16:18:39Z
+vsoch/staged-recipes	https://github.com/vsoch/staged-recipes	https://conda-forge.github.io/	A place to submit conda recipes before they become fully fledged conda-forge feedstocks	2018-02-23T06:40:08Z
+vsoch/stanford-cpp-library	https://github.com/vsoch/stanford-cpp-library		The Stanford C++ libraries, created by Eric Roberts et al.	2018-10-12T20:07:21Z
+vsoch/stats285.github.io	https://github.com/vsoch/stats285.github.io		STATS285 course website	2017-08-02T03:42:59Z
+vsoch/svgtools	https://github.com/vsoch/svgtools		tools for generating components for interactive visualizations, from data and images	2016-05-19T16:07:20Z
+vsoch/sview-docker	https://github.com/vsoch/sview-docker		testing installation of sview via a docker (singularity on cluster) container	2018-09-10T21:54:44Z
+vsoch/swist_fmri_image	https://github.com/vsoch/swist_fmri_image		Singularity image for SwiSt fMRI software environment	2018-05-09T13:38:24Z
+vsoch/szICA	https://github.com/vsoch/szICA	https://vsoch.github.io/szICA/	an old ICA analysis from graduate school, also see vsoch/hcICA	2019-04-25T19:09:14Z
+vsoch/taskfmri	https://github.com/vsoch/taskfmri		Task fMRI Project	2015-04-17T21:44:25Z
+vsoch/ten-simple-rules-dockerfiles	https://github.com/vsoch/ten-simple-rules-dockerfiles		Ten simple rules for using Dockerfiles for reproducible research	2019-10-26T16:19:26Z
+vsoch/Tensorflow-singularity-container-with-GPU-support	https://github.com/vsoch/Tensorflow-singularity-container-with-GPU-support		This repository provides a bootstrap definition file to build Tensorflow singularity container with Nvidia GPU support	2016-10-08T23:28:16Z
+vsoch/the-list-of-things-that-might-be-cool	https://github.com/vsoch/the-list-of-things-that-might-be-cool		the list of things that might be cool	2018-08-22T15:43:57Z
+vsoch/theMAC	https://github.com/vsoch/theMAC	https://vsoch.github.io/theMAC	visualization for the MAC connectivity algorithm	2015-03-04T17:22:03Z
+vsoch/theMethodsOntology	https://github.com/vsoch/theMethodsOntology			2014-10-06T21:16:38Z
+vsoch/thesis	https://github.com/vsoch/thesis	https://vsoch.github.io/thesis	html generator for a latex (zipped) thesis from Overleaf	2016-07-27T23:43:48Z
+vsoch/thesis-web	https://github.com/vsoch/thesis-web		supplementary files and (eventually) web rendering of my graduate thesis	2016-03-30T00:00:56Z
+vsoch/tob	https://github.com/vsoch/tob	https://groups.google.com/a/opencontainers.org/forum/#!forum/tob	Technical Oversight Board (TOB)	2019-02-26T18:53:24Z
+vsoch/tracerr	https://github.com/vsoch/tracerr		python module for error understanding and management (under development)	2019-03-22T22:15:15Z
+vsoch/training-data-analyst	https://github.com/vsoch/training-data-analyst		Labs and demos for courses for GCP Training (http://cloud.google.com/training).	2020-10-21T22:22:30Z
+vsoch/traits	https://github.com/vsoch/traits		Database for lists of traits from Cattell and others	2015-07-13T19:36:13Z
+vsoch/tributors	https://github.com/vsoch/tributors		Pay tribute to your contributors! A tool to automatically update contributor files.	2020-07-01T21:14:27Z
+vsoch/TtoZ	https://github.com/vsoch/TtoZ		Convert T score brain statistical map to Z score map	2015-03-14T19:47:51Z
+vsoch/tunel	https://github.com/vsoch/tunel		command line tool for general HPC functions using Singularity containers	2017-04-02T16:51:59Z
+vsoch/tunel-demo	https://github.com/vsoch/tunel-demo			2017-01-30T00:44:06Z
+vsoch/twitter-share-action	https://github.com/vsoch/twitter-share-action		A GitHub action to give a Share link to the user upon merge of a pull request (under development)	2019-07-17T17:38:35Z
+vsoch/unknown-horizons	https://github.com/vsoch/unknown-horizons	http://unknown-horizons.org	Unknown Horizons official code repository	2019-04-24T15:08:45Z
+vsoch/uservoice-python	https://github.com/vsoch/uservoice-python		Python Client Library for UserVoice API	2016-09-30T21:47:59Z
+vsoch/usrse.github.io	https://github.com/vsoch/usrse.github.io	https://usrse.github.io/usrseweb/	US RSE umbrella web page	2019-05-14T16:29:36Z
+vsoch/v1	https://github.com/vsoch/v1		main website associated with tag v1.0, all content up to my 31st birthday	2017-09-20T00:38:27Z
+vsoch/vbmis.com	https://github.com/vsoch/vbmis.com	https://vsoch.github.io/vbmis.com/	deprecated content from an old website, for archive	2019-04-24T16:26:09Z
+vsoch/virtual-scanner	https://github.com/vsoch/virtual-scanner		An end-to-end hybrid MR simulator/console	2019-09-11T12:56:40Z
+vsoch/visci	https://github.com/vsoch/visci	https://pypi.python.org/pypi/visci	visualizations generated with continuous integration (visci)	2015-12-01T20:06:02Z
+vsoch/visualization-ci	https://github.com/vsoch/visualization-ci	https://circle-artifacts.com/gh/vsoch/visualization-ci/37/artifacts/0/home/ubuntu/visualization-ci/index.html	visualizations generated with continuous integration (visci)	2015-12-01T01:33:19Z
+vsoch/vitable	https://github.com/vsoch/vitable			2015-12-15T01:07:55Z
+vsoch/vp_trees	https://github.com/vsoch/vp_trees		Implementation for vp trees	2016-08-16T03:36:19Z
+vsoch/vsc-base	https://github.com/vsoch/vsc-base		Basic Python libraries used by UGent's HPC group	2018-05-09T16:17:48Z
+vsoch/vsc-install	https://github.com/vsoch/vsc-install		Shared setuptools functions and classes for python libraries developed by UGent's HPC group	2018-05-09T16:51:07Z
+vsoch/vscode-hugo	https://github.com/vsoch/vscode-hugo	https://marketplace.visualstudio.com/items?itemName=rusnasonov.vscode-hugo	VSCode integration with Hugo — static site generator	2020-03-25T16:01:06Z
+vsoch/vsoch.github.io	https://github.com/vsoch/vsoch.github.io	https://vsoch.github.io	vsoch	2015-09-03T20:06:16Z
+vsoch/vubuntu	https://github.com/vsoch/vubuntu		a complete command history of things I've installed on vubuntu. Because why not.	2016-10-12T17:45:11Z
+vsoch/vvcftools	https://github.com/vsoch/vvcftools		Vanessa's vcf tools for simple working with variant call format files	2014-09-17T23:41:13Z
+vsoch/watchme	https://github.com/vsoch/watchme	https://vsoch.github.io/watchme/	Reproducible watchers for research	2019-03-26T17:28:33Z
+vsoch/watchme-air-quality	https://github.com/vsoch/watchme-air-quality		example WatchMe reproducible watcher to track air quality (hourly)	2019-04-02T22:39:17Z
+vsoch/watchme-github-repos	https://github.com/vsoch/watchme-github-repos		example WatchMe repository to monitor GitHub repositoriy metadata	2019-04-08T14:21:00Z
+vsoch/watchme-mnist	https://github.com/vsoch/watchme-mnist		An example using the watchme terminal monitor to record resources used during mnist training	2019-05-18T16:47:56Z
+vsoch/watchme-pusheen	https://github.com/vsoch/watchme-pusheen		An example of using WatchMe to monitor changes in prices of Pusheen from several popular vendors	2019-04-07T23:16:47Z
+vsoch/watchme-sklearn	https://github.com/vsoch/watchme-sklearn		use watchme psutils monitor wrapper to record metrics for a set of sklearn functions	2019-05-12T20:24:48Z
+vsoch/watchme-system	https://github.com/vsoch/watchme-system	https://vsoch.github.io/watchme-system/	An example reproducible monitor for system metrics using the watchme client	2019-04-05T22:48:28Z
+vsoch/wdl-pipelines	https://github.com/vsoch/wdl-pipelines	https://vsoch.github.io/wdl-pipelines	pipeline documentation development for ENCODE-DCC (under development)	2018-07-13T13:12:29Z
+vsoch/web-git	https://github.com/vsoch/web-git	http://vsoch.github.io/web-git	can we create a static, web-based, client side REST API (and database)?	2016-09-09T20:58:39Z
+vsoch/webMR	https://github.com/vsoch/webMR	https://vsoch.github.io/webMR	a little web viewer for the AAL Atlas, discovered on an old server I'm taking down.	2019-04-25T17:46:21Z
+vsoch/website	https://github.com/vsoch/website	https://marktext.github.io/website/	The website of Mark Text	2018-03-17T01:00:32Z
+vsoch/wgbs-pipeline	https://github.com/vsoch/wgbs-pipeline		An infrastructure to run gemBS pipeline https://github.com/heathsc/gemBS	2018-08-07T00:31:43Z
+vsoch/wiki	https://github.com/vsoch/wiki	https://vsoch.github.io/wiki	legacy wiki from pre and early graduate school	2019-05-20T16:17:29Z
+vsoch/wikipedia-equations	https://github.com/vsoch/wikipedia-equations		word2vec embeddings for statistics and math equations from Wikipedia 	2019-01-12T19:27:44Z
+vsoch/william_james	https://github.com/vsoch/william_james		parse william james paragraphs (for later topic modeling) and finding cognitive atlas terms	2016-04-04T19:33:21Z
+vsoch/wordfish-standard	https://github.com/vsoch/wordfish-standard	http://www.vanessasaur.us/wordfish-standard/examples/demo2	example data file / hierarchy for import / export of images and text from Wordfish	2017-02-01T23:38:58Z
+vsoch/www.sherlock.stanford.edu	https://github.com/vsoch/www.sherlock.stanford.edu	https://www.sherlock.stanford.edu	The Sherlock website	2019-07-01T19:42:16Z
+vsoch/xmas-2017	https://github.com/vsoch/xmas-2017			2017-12-25T02:36:09Z
+vsoch/xnat-docker-compose	https://github.com/vsoch/xnat-docker-compose		Build an XNAT server configuration with Docker Compose	2017-10-24T14:32:58Z
+vsoch/yeast-ideogram	https://github.com/vsoch/yeast-ideogram	https://vsoch.github.io/yeast-ideogram/	yeast ideogram intended for integration into interactive web application, under development	2020-10-04T18:59:32Z
+vsoch/yeolab.github.io	https://github.com/vsoch/yeolab.github.io	https://github.com/YeoLab/yeolab.github.io-source	Do not edit this repo! Everything here is machine-generated by Travis-CI every time we push to the yeolab/yeolab.github.io-source page	2017-05-27T05:44:45Z
+vsoch/zenodo-ml	https://github.com/vsoch/zenodo-ml	https://vsoch.github.io/datasets/2018/zenodo/#software-in-the-context-of-image-analysis	dinosaur dataset to help understand domain-specific software	2018-05-26T22:45:15Z
+nipy/blog	https://github.com/nipy/blog			2013-05-14T08:17:18Z
+nipy/nipy.github.com	https://github.com/nipy/nipy.github.com	http://nipy.org	Main website for the Neuroimaging in Python community	2011-01-23T02:08:28Z
+incf-nidash/nidm-api	https://github.com/incf-nidash/nidm-api	http://nidm-api.readthedocs.org/	A restful api and client for NIDM	2015-10-24T18:34:11Z
+incf-nidash/nidm-query	https://github.com/incf-nidash/nidm-query		A repository of NIDM queries	2015-10-24T18:31:58Z
+NeuroVault/NeuroVault	https://github.com/NeuroVault/NeuroVault	https://www.neurovault.org	Easy to use web database for statistical maps.	2013-02-01T18:25:43Z
+NeuroVault/neurovault_puppet	https://github.com/NeuroVault/neurovault_puppet		Puppet installation and configuration for Neurovault	2014-10-14T17:59:25Z
+NeuroVault/pyneurovault	https://github.com/NeuroVault/pyneurovault	http://www.neurovault.org/api-docs	python wrapper for NeuroVault api (in dev)	2015-01-15T22:38:07Z
+poldracklab/cogat	https://github.com/poldracklab/cogat			2017-03-10T18:54:25Z
+poldracklab/expfactory-battery	https://github.com/poldracklab/expfactory-battery		version 1.0 expfactory battery template used with psiturk, django, and expfactory.github.io	2019-09-19T14:03:54Z
+poldracklab/expfactory-python	https://github.com/poldracklab/expfactory-python	http://expfactory.readthedocs.org/	python module for managing experiment factory javascript experiment files, batteries to deploy them to (eg, psiturk), and virtual machines to host the compilation of those things.	2019-10-21T22:05:00Z
+poldracklab/open_fmri	https://github.com/poldracklab/open_fmri		Reimplementation of OpenfMRI.org in Django	2015-10-06T17:50:52Z
+poldracklab/poldracklab-learning	https://github.com/poldracklab/poldracklab-learning		Tutorials for learning imaging analysis (and other things), typically in ipython Notebook or R Markdown	2014-11-25T01:16:51Z
+poldracklab/pydeface	https://github.com/poldracklab/pydeface		defacing utility for MRI images	2015-12-07T16:11:50Z
+CognitiveAtlas/cogat-doc	https://github.com/CognitiveAtlas/cogat-doc		Documentation for the RESTful API	2015-06-10T23:03:10Z
+CognitiveAtlas/cogat-ontology	https://github.com/CognitiveAtlas/cogat-ontology		Code to generate the ontology file (.owl) for the Cognitive Atlas	2015-06-10T23:00:07Z
+CognitiveAtlas/cogat-python	https://github.com/CognitiveAtlas/cogat-python		Python wrapper for the Cognitive Atlas RESTful API	2015-06-10T22:56:07Z
+CognitiveAtlas/cogat-similaR	https://github.com/CognitiveAtlas/cogat-similaR		R Package for calculation of ontological similarity using the Cognitive Atlas	2015-05-01T00:54:04Z
+stanford-rc/docs-farmshare	https://github.com/stanford-rc/docs-farmshare	https://stanford-rc.github.io/docs-farmshare/	Farmshare 2 Documentation base, under development	stanford-rc/docs-oak	https://github.com/stanford-rc/docs-oak	https://oak-storage.stanford.edu	Public documentation base for Oak Storage	2019-07-08T16:07:28Z
+stanford-rc/docs-scg	https://github.com/stanford-rc/docs-scg		Development documentation for SCG cluster for easy collaboration	2020-08-11T17:30:44Z
+stanford-rc/gcp-cvat-stanford	https://github.com/stanford-rc/gcp-cvat-stanford		Setting up cvat on Google Cloud (Compute Engine and Managed SQL)	2020-09-30T20:24:28Z
+stanford-rc/gcp-django-stanford	https://github.com/stanford-rc/gcp-django-stanford	https://stanford-rc.github.io/gcp-django-stanford/	Getting started templates for Django applications by RSE Services	2020-07-27T17:03:03Z
+stanford-rc/gcp-flask-stanford	https://github.com/stanford-rc/gcp-flask-stanford	https://stanford-rc.github.io/gcp-flask-stanford/	Getting started templates for Flask applications by RSE Services	2020-07-22T21:47:36Z
+stanford-rc/logos	https://github.com/stanford-rc/logos		Logos and other design resources for shared documentation sites	2019-07-06T17:14:55Z
+stanford-rc/mhttc	https://github.com/stanford-rc/mhttc	https://vsoch.github.io/mhttc/	Mental Health Technology Health Transfer Network	2021-01-29T22:12:13Z
+stanford-rc/opensource-stanford	https://github.com/stanford-rc/opensource-stanford	https://stanford-rc.github.io/opensource-stanford/	Explore a subset of open source contributions at Stanford University.	2020-08-19T18:07:03Z
+stanford-rc/qualtrics-download	https://github.com/stanford-rc/qualtrics-download		Examples for how to manually and programatically export Qualtrics survey data	2020-08-24T17:41:46Z
+stanford-rc/recommend-o-matic	https://github.com/stanford-rc/recommend-o-matic	https://stanford-rc.github.io/recommend-o-matic/	"General tool for generating the ""Recommend-o-matic interface"" to filter resources based on user questions."	2020-10-07T20:46:44Z
+stanford-rc/resource-explorer	https://github.com/stanford-rc/resource-explorer	https://stanford-rc.github.io/resource-explorer/	interface to choose a storage, compute, or other resource (under development)	2019-08-17T20:45:36Z
+stanford-rc/rse-services	https://github.com/stanford-rc/rse-services	https://stanford-rc.github.io/rse-services/	Research Software Engineering Services for reproducible, sustainable software	2019-07-27T21:02:39Z
+stanford-rc/slurm-web	https://github.com/stanford-rc/slurm-web	http://edf-hpc.github.io/slurm-web/	Slurm HPC workload manager web JS dashboard and JSON REST API	2017-02-07T17:26:52Z
+stanford-rc/stanford-rc.github.io	https://github.com/stanford-rc/stanford-rc.github.io	https://stanford-rc.github.io/	Stanford Research Computing Center Documentation Portal	2019-07-07T14:51:22Z
+stanford-rc/stanford-software-survey	https://github.com/stanford-rc/stanford-software-survey	https://stanford-rc.github.io/stanford-software-survey/	Results and interface for the annual Stanford Software Survey (under development)	2021-01-06T00:25:59Z
+stanford-rc/www.sherlock.stanford.edu	https://github.com/stanford-rc/www.sherlock.stanford.edu	https://www.sherlock.stanford.edu	The Sherlock website	2018-04-04T21:38:03Z
+expfactory/analysis	https://github.com/expfactory/analysis		functions for working with email (results) database	2016-08-15T01:23:26Z
+expfactory/builder	https://github.com/expfactory/builder	https://expfactory.github.io/builder/	complete build, test and deploy pipeline template for generating an experiment container	2018-07-09T15:01:17Z
+expfactory/builder-labjs	https://github.com/expfactory/builder-labjs	https://expfactory.github.io/expfactory/integration-labjs	drop your labjs experiments into the experiments folder, and build --> deploy !!	2018-07-14T03:24:15Z
+expfactory/experiments	https://github.com/expfactory/experiments	https://expfactory.github.io/experiments/	library of version controlled, tested experiments for expfactory	2017-10-28T18:09:10Z
+expfactory/expfactory	https://github.com/expfactory/expfactory	https://expfactory.github.io/	software to generate a reproducible container with a battery of experiments	2017-10-28T18:05:26Z
+expfactory/expfactory-analysis	https://github.com/expfactory/expfactory-analysis		analysis of results from expfactory experiments	2016-02-04T22:04:33Z
+expfactory/expfactory-battery	https://github.com/expfactory/expfactory-battery		version 1.0 expfactory battery template used with psiturk, django, and expfactory.github.io	2015-10-03T17:23:45Z
+expfactory/expfactory-builder	https://github.com/expfactory/expfactory-builder		builder images to generate experiment factory containers	2017-12-11T16:45:34Z
+expfactory/expfactory-docker	https://github.com/expfactory/expfactory-docker	http://www.expfactory.org	container for deploying behavioral psychology experiments	2015-12-02T18:38:10Z
+expfactory/expfactory-docker-dev	https://github.com/expfactory/expfactory-docker-dev		container for deploying behavioral psychology experiments (under development)	2016-08-09T20:13:22Z
+expfactory/expfactory-experiments	https://github.com/expfactory/expfactory-experiments	http://expfactory.github.io/v1/table.html	version 1.0 javascript experiments that can be deployed to run in an experiment infrastructure	2015-10-03T21:26:50Z
+expfactory/expfactory-explorer	https://github.com/expfactory/expfactory-explorer		Shiny based data explorer with report templates based on field selection	2016-02-06T20:30:28Z
+expfactory/expfactory-games	https://github.com/expfactory/expfactory-games			2016-03-17T01:01:26Z
+expfactory/expfactory-labjs	https://github.com/expfactory/expfactory-labjs		example of how to import a labjs experiment into a reproducible experiments container	2017-12-19T00:14:54Z
+expfactory/expfactory-python	https://github.com/expfactory/expfactory-python	http://expfactory.readthedocs.org/	python module for managing experiment factory javascript experiment files, batteries to deploy them to (eg, psiturk), and virtual machines to host the compilation of those things.	2015-10-03T21:38:00Z
+expfactory/expfactory-robots	https://github.com/expfactory/expfactory-robots	https://expfactory.github.io/expfactory-robots/	robots for experiment factory experiments and surveys	2017-12-17T01:10:14Z
+expfactory/expfactory-surveys	https://github.com/expfactory/expfactory-surveys		experiment factory surveys	2016-02-21T22:16:53Z
+expfactory/expfactory-testing	https://github.com/expfactory/expfactory-testing		an example repository to generate and test a custom experiment factory software and/or experiment	2018-07-15T22:25:42Z
+expfactory/expfactory-vm	https://github.com/expfactory/expfactory-vm		a virtual machine to deploy the infrastructure on amazon aws	2015-10-03T19:10:32Z
+expfactory/expfactory.github.io	https://github.com/expfactory/expfactory.github.io	https://expfactory.github.io	reproducible container experiments	2018-02-05T02:50:20Z
+expfactory/expfactory.js	https://github.com/expfactory/expfactory.js		helper library for static experiments to submit data for experiment factory containers	2018-07-14T18:54:42Z
+expfactory/expfactoryr	https://github.com/expfactory/expfactoryr	https://expfactory.github.io/expfactoryr	The Experiment Factory: Data Processing in R	2018-08-16T15:05:46Z
+expfactory/survey-generator	https://github.com/expfactory/survey-generator	https://quay.io/repository/expfactory/survey-generator?tab=tags	A container to easily generate an experiment factory survey	2017-12-16T18:57:21Z
+expfactory/surveys	https://github.com/expfactory/surveys		experiment factory surveys (under development)	2016-08-10T00:17:57Z
+expfactory/v1	https://github.com/expfactory/v1	http://expfactory.github.io/v1/	version 1.0 infrastructure for generating custom web experiments, by Poldracklab at Stanford University	2015-10-18T23:03:26Z
+neuropower/neuropower-web	https://github.com/neuropower/neuropower-web		sample size calculations for fMRI	2016-02-09T00:50:59Z
+neuropower/neurpower-paper	https://github.com/neuropower/neurpower-paper			2018-08-25T17:58:58Z
+singularityware/archive	https://github.com/singularityware/archive	http://singularity.lbl.gov/archive/docs/	static repository to serve older versions of docs and other singularity content	2017-07-26T19:14:04Z
+singularityware/singularity-builder	https://github.com/singularityware/singularity-builder		packer image configuration for builder images for different platforms	2016-10-29T21:44:36Z
+singularityware/singularity-vagrant	https://github.com/singularityware/singularity-vagrant		vagrant containers for quick development on different OS	2016-07-05T20:44:36Z
+singularityware/singularityware.github.io	https://github.com/singularityware/singularityware.github.io	https://singularityware.github.io	base documentation site for Singularity software	2016-07-05T20:18:25Z
+radinformatics/bone-age	https://github.com/radinformatics/bone-age		Docker and Singularity containers to predict bone age from radiographs (demo)	2016-12-28T03:17:40Z
+radinformatics/builder-orthancp	https://github.com/radinformatics/builder-orthancp		cloud instance builder for on demand (dockerized) orthancp instance	2016-11-25T02:05:46Z
+radinformatics/cirr-docker	https://github.com/radinformatics/cirr-docker		Docker recipe to configure and spin up a medical imaging informatics platform	2016-11-24T21:11:37Z
+radinformatics/markup-dinosaur	https://github.com/radinformatics/markup-dinosaur		a simple web application for marking up images for Stanford School of Medicine	2017-01-23T19:47:22Z
+radinformatics/mirc-ctp-docker	https://github.com/radinformatics/mirc-ctp-docker		docker image for deploying MIRC-CTP server (under development)	2016-12-05T23:14:56Z
+radinformatics/radinformatics.github.io	https://github.com/radinformatics/radinformatics.github.io	http://radinformatics.github.io	Radiology Informatics at Stanford University	2016-09-21T22:05:16Z
+radinformatics/sendit	https://github.com/radinformatics/sendit		dummy server for sending/receiving RESTful posts to develop receivers for images	2016-12-24T01:53:34Z
+radinformatics/sherlock-software	https://github.com/radinformatics/sherlock-software		modules for basic software for the sherlock cluster	2016-10-02T00:30:15Z
+radinformatics/singularity-environments	https://github.com/radinformatics/singularity-environments		a collection of singularity software environments for the lab	2016-09-27T22:43:02Z
+radinformatics/som-api	https://github.com/radinformatics/som-api		demos for functions used / provided by som api	2017-02-10T02:00:06Z
+radinformatics/usappendix	https://github.com/radinformatics/usappendix		simple parsing for us appendix records for preparation to input into WordFish	2016-12-15T02:18:32Z
+radinformatics/whatisit	https://github.com/radinformatics/whatisit		collaborative annotation interface for de-identified radiologist reports	2016-10-14T17:13:56Z
+radinformatics/wordfish-anon	https://github.com/radinformatics/wordfish-anon		simple Docker application to remove PHI from texty data	2017-03-19T22:08:05Z
+researchapps/airflow-example	https://github.com/researchapps/airflow-example		testing an example pipeline with apache airflow	2019-03-05T18:59:25Z
+researchapps/bamtools	https://github.com/researchapps/bamtools		Singularity image for biocontainers bamtools	2017-01-15T19:17:38Z
+researchapps/bcftools	https://github.com/researchapps/bcftools		Singularity image for biocontainers bcftools	2017-01-15T22:27:12Z
+researchapps/betterscientificsoftware.github.io	https://github.com/researchapps/betterscientificsoftware.github.io	https://bssw.io	Better Scientific Software Homepage	2020-02-19T19:49:20Z
+researchapps/biopython-index-test	https://github.com/researchapps/biopython-index-test			2019-05-09T14:28:22Z
+researchapps/blast	https://github.com/researchapps/blast		singularity image for biocontainers blast (anaconda)	2017-01-15T22:10:49Z
+researchapps/buildtest-framework	https://github.com/researchapps/buildtest-framework	https://buildtest.rtfd.io	software testing framework for testing HPC software stack	2020-02-19T18:30:02Z
+researchapps/centerforopenneuroscience.org	https://github.com/researchapps/centerforopenneuroscience.org	http://centerforopenneuroscience.org	Website materials	2020-07-01T17:02:47Z
+researchapps/citapp_pc	https://github.com/researchapps/citapp_pc	https://gasparl.github.io/citapp_pc/CITapp.html	CITapp - a response time-based Concealed Information Test lie detector web application. It implements a standard version and a more recent enhanced version. This method aims to reveal whether or not a certain information detail (e.g. a photo taken from the scene of a recent burglary) is known to the tested person.	2019-01-26T16:09:05Z
+researchapps/containerit	https://github.com/researchapps/containerit	https://o2r.info/containerit/	Package an R workspace and all dependencies as a Docker container	2019-08-08T16:26:18Z
+researchapps/containers-sylabs-genomics	https://github.com/researchapps/containers-sylabs-genomics			2019-09-23T14:51:09Z
+researchapps/contrib	https://github.com/researchapps/contrib		A python package for making stacked area plots of contributions over time.	2020-05-23T16:53:55Z
+researchapps/coupling	https://github.com/researchapps/coupling		Matlab and Python scripts for calculating functional coupling between time series data	2019-01-11T15:40:53Z
+researchapps/cSCCscore	https://github.com/researchapps/cSCCscore	https://researchapps.github.io/cSCCscore/	probability of developing a new squamous cell skin cancer in the next three years	2017-12-17T20:54:11Z
+researchapps/cvat	https://github.com/researchapps/cvat		Powerful and efficient Computer Vision Annotation Tool (CVAT)	2020-01-28T21:26:33Z
+researchapps/CW20	https://github.com/researchapps/CW20	https://collegeville.github.io/CW20	2020 Collegeville Workshop on Scientific Software - Developer Productivity	2020-06-04T19:55:31Z
+researchapps/DataQualityDashboard	https://github.com/researchapps/DataQualityDashboard	https://ohdsi.github.io/DataQualityDashboard	A tool to help improve data quality standards in observational data science.	2020-02-22T22:14:41Z
+researchapps/discourse_docker	https://github.com/researchapps/discourse_docker	http://www.discourse.org	A Docker image for Discourse	2018-11-17T00:19:24Z
+researchapps/edd	https://github.com/researchapps/edd	https://pypi.python.org/pypi/edd	Enriched Domain Detector for ChIP-seq data	2017-02-25T15:46:55Z
+researchapps/encode-demo-pipeline	https://github.com/researchapps/encode-demo-pipeline			2019-08-20T14:56:33Z
+researchapps/Experimental-data-simulation	https://github.com/researchapps/Experimental-data-simulation	https://pablo-bernabeu.shinyapps.io/experimental-data-simulation/	Generate a pseudorandom data set to simulate an experiment. This web application is suitable for educational and research purposes in experimental and quantitative sciences. It allows the creation of varied data sets with specified structures, such as between-group and within-participant variables, that can be categorical or continuous.	2020-07-16T22:07:26Z
+researchapps/face2data	https://github.com/researchapps/face2data	https://face2data.herokuapp.com/	Face2Data: Extract meaningful information from a person face in less than a second. Powered by Keras and Flask.	2020-02-12T20:18:26Z
+researchapps/fasta-utilities	https://github.com/researchapps/fasta-utilities			2016-12-23T01:53:39Z
+researchapps/first-order-model	https://github.com/researchapps/first-order-model	https://aliaksandrsiarohin.github.io/first-order-model-website/	This repository contains the source code for the paper First Order Motion Model for Image Animation 	2020-04-26T14:58:25Z
+researchapps/forward	https://github.com/researchapps/forward	https://vsoch.github.io/lessons/sherlock-singularity/	Sherlock Port Forwarding Utility	2018-07-09T17:31:28Z
+researchapps/freegenes-feedstock	https://github.com/researchapps/freegenes-feedstock		A conda-smithy repository for freegenes.	2019-09-06T21:22:48Z
+researchapps/funglab	https://github.com/researchapps/funglab		testing basic processing of neuroimaging for Fung lab	2017-04-18T17:59:01Z
+researchapps/GoogleMAGs	https://github.com/researchapps/GoogleMAGs		Workflow for MAG construction	2020-02-01T21:35:36Z
+researchapps/graspit	https://github.com/researchapps/graspit		singularity image for graspit with python 3	2017-03-05T20:25:06Z
+researchapps/health-insurance-decision	https://github.com/researchapps/health-insurance-decision		A small notebook to walk through if shared or individual plans are a better choice	2019-09-29T15:38:25Z
+researchapps/helpme-django	https://github.com/researchapps/helpme-django		An open source, collaborative question and answer system for academic programming and HPC	2017-11-24T22:56:55Z
+researchapps/helpme-server	https://github.com/researchapps/helpme-server		Collaborative knowledge and support for scientific computing	2017-11-29T00:07:08Z
+researchapps/highlight.js	https://github.com/researchapps/highlight.js	https://highlightjs.org/	Javascript syntax highlighter	2019-10-17T13:56:23Z
+researchapps/images	https://github.com/researchapps/images		Repository for BSSw image files	2020-02-19T20:13:39Z
+researchapps/InvestInOpen	https://github.com/researchapps/InvestInOpen		Repository to host the website for the Invest in Open Infrastructure project.	2019-05-25T00:40:29Z
+researchapps/job-maker	https://github.com/researchapps/job-maker	https://researchapps.github.io/job-maker/	a static web application for generating job submissions scripts for a SLURM cluster	2017-05-14T00:26:40Z
+researchapps/joss	https://github.com/researchapps/joss	http://joss.theoj.org	The Journal of Open Source Software	2019-08-26T13:08:48Z
+researchapps/jupyterlab-git	https://github.com/researchapps/jupyterlab-git		An example Docker container with jupyterlab-git	2019-08-10T13:07:11Z
+researchapps/knowledge-repo	https://github.com/researchapps/knowledge-repo	https://researchapps.github.io/knowledge-repo/	the human pages, will be derived from the helpme collaborative support tool	2017-11-26T00:39:28Z
+researchapps/libChEBIpy	https://github.com/researchapps/libChEBIpy		libChEBIpy: a Python API for accessing the ChEBI database	2020-07-17T19:50:38Z
+researchapps/living-docs	https://github.com/researchapps/living-docs	https://researchapps.github.io/living-docs	an example repository with editable docs	2018-02-27T09:18:47Z
+researchapps/matlab-sherlock	https://github.com/researchapps/matlab-sherlock		example of container to run matlab via sherlock (host matlab and licensing server)	2017-04-04T02:58:36Z
+researchapps/minio-py	https://github.com/researchapps/minio-py	https://docs.min.io/docs/python-client-quickstart-guide.html	MinIO Client SDK for Python	2020-04-06T21:01:33Z
+researchapps/neuro-task-starter	https://github.com/researchapps/neuro-task-starter		Starter repo for jspsych/react/electron neuro tasks	2019-12-11T19:54:43Z
+researchapps/nolearn	https://github.com/researchapps/nolearn	http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/	Combines the ease of use of scikit-learn with the power of Theano/Lasagne	2019-11-01T16:59:25Z
+researchapps/oci-conformance	https://github.com/researchapps/oci-conformance	https://opencontainers.org	OCI Conformance/Certification Working Group	2020-12-14T20:09:35Z
+researchapps/open-source-jobs	https://github.com/researchapps/open-source-jobs		A list of Open Source projects offering jobs. For who want to work on open source and get paid.	2019-03-24T06:29:47Z
+researchapps/opensees	https://github.com/researchapps/opensees		Singularity image for (last working verison) of OpenSees	2017-02-08T00:49:28Z
+researchapps/optitype	https://github.com/researchapps/optitype		Singularity port of OptiType for precision HLA typing from next-generation sequencing data	2016-11-15T23:35:25Z
+researchapps/picard	https://github.com/researchapps/picard		official build specifications for picard tools	2016-12-14T22:25:10Z
+researchapps/polysolver	https://github.com/researchapps/polysolver		Singularity port of HLA typing based on an input exome BAM file and is currently infers infers alleles for the three major MHC class I  (HLA-A, -B, -C)	2016-11-16T00:53:15Z
+researchapps/pyjs	https://github.com/researchapps/pyjs	http://pyjs.org/	Pyjs canonical sources. Start here!	2020-08-09T20:02:07Z
+researchapps/pySchrodinger	https://github.com/researchapps/pySchrodinger		A Python solver for the 1D Schrodinger equation	2020-05-06T19:21:19Z
+researchapps/qpixel	https://github.com/researchapps/qpixel	https://codidact.com	Q&A-based community knowledge-sharing software	2020-08-19T22:14:53Z
+researchapps/quantum_state_diffusion	https://github.com/researchapps/quantum_state_diffusion		Solving quantum state diffusion numerically.	2016-11-16T05:52:10Z
+researchapps/red-docs-jekyll	https://github.com/researchapps/red-docs-jekyll	https://researchapps.github.io/red-docs-jekyll/	documentation template for researchers	2016-10-23T04:04:47Z
+researchapps/researchapps.github.io	https://github.com/researchapps/researchapps.github.io	https://researchapps.github.io	templates and documentation provided by research computing for general use	2016-10-14T19:45:32Z
+researchapps/rhub-docs	https://github.com/researchapps/rhub-docs	https://docs.r-hub.io/	R-hub documentation website	2020-04-13T18:41:42Z
+researchapps/rize	https://github.com/researchapps/rize		dockerize R shiny apps	2019-03-09T19:08:38Z
+researchapps/samtools	https://github.com/researchapps/samtools		Singularity image for biocontainers samtools	2017-01-15T22:23:40Z
+researchapps/scg4	https://github.com/researchapps/scg4		repository for collaborating with scg4 users on Singularity containers	2017-02-25T19:59:30Z
+researchapps/sfosc	https://github.com/researchapps/sfosc		The Sustainable Free and Open Source Community Website	2019-03-21T15:05:51Z
+researchapps/sherlock	https://github.com/researchapps/sherlock		repository for collaborating with sherlock users to create containers	2017-03-01T00:44:07Z
+researchapps/singularity-picard	https://github.com/researchapps/singularity-picard		Singularity port of Picard tools	2016-11-16T01:05:35Z
+researchapps/smanage	https://github.com/researchapps/smanage		Slurm Manage for submitting and useful reporting on job arrays	2018-12-26T20:35:16Z
+researchapps/spack	https://github.com/researchapps/spack	https://spack.io	A flexible package manager that supports multiple versions, configurations, platforms, and compilers.	2019-04-01T14:02:57Z
+researchapps/sregistry-builder	https://github.com/researchapps/sregistry-builder		builder instance for Singularity Registry Server (under development)	2020-01-06T00:03:34Z
+researchapps/stockwatcher	https://github.com/researchapps/stockwatcher		old deprecated webapp, no longer hosted	2019-05-20T22:07:54Z
+researchapps/template-experiment-mysql	https://github.com/researchapps/template-experiment-mysql		Deploying a local experiment with a MySQL database on AFS	2016-11-03T23:20:06Z
+researchapps/template-jekyll-github	https://github.com/researchapps/template-jekyll-github	https://stanford-rc.github.io/template-jekyll-github	a starter template for researchers to easily deploy documentation on github pages	2016-10-14T23:18:06Z
+researchapps/tensorflow	https://github.com/researchapps/tensorflow		official build specifications for tensorflow	2016-12-14T21:49:32Z
+researchapps/testing-dask	https://github.com/researchapps/testing-dask		Testing dask (with airflow?) locally (and maybe) on HPC depending on the results	2020-07-23T20:28:53Z
+researchapps/testing-shub	https://github.com/researchapps/testing-shub			2020-09-28T16:23:06Z
+researchapps/two-photon	https://github.com/researchapps/two-photon		Common scripts, libraries, and utilities for 2p experiments	2020-08-30T18:33:24Z
+researchapps/url-headers	https://github.com/researchapps/url-headers	https://researchapps.github.io/url-headers/	Container, scripts, and GitHub action to extract header metadata for sites.	2020-05-26T18:34:57Z
+researchapps/URLs-checker	https://github.com/researchapps/URLs-checker		:link: GitHub action to extract and check URLs in code and documentations.	2020-03-09T18:00:37Z
+researchapps/vae	https://github.com/researchapps/vae			2019-01-02T22:54:22Z
+researchapps/vep	https://github.com/researchapps/vep		Recipe for VEP + Cache	2020-03-17T17:02:57Z
+researchapps/virtual-scanner	https://github.com/researchapps/virtual-scanner		An end-to-end hybrid MR simulator/console	2019-08-24T17:03:19Z
+researchapps/watchme-sensors	https://github.com/researchapps/watchme-sensors	https://researchapps.github.io/watchme-sensors	 A quick repository to watch sensors (temperature) on a computer for a day.	2020-02-03T19:02:46Z
+researchapps/wizard	https://github.com/researchapps/wizard		An educational wizard for creating your own SFOSC	2019-06-22T14:01:11Z
+singularityhub/.github	https://github.com/singularityhub/.github	https://singularityhub.github.io/.github	community wide code of conduct and other documents	2019-03-05T20:05:32Z
+singularityhub/actions	https://github.com/singularityhub/actions		testing actions for Singularity containers	2018-11-30T09:29:55Z
+singularityhub/api	https://github.com/singularityhub/api	https://singularityhub.github.io/api/	static API for community analysis of Singularity Hub containers	2018-05-01T20:45:00Z
+singularityhub/arch	https://github.com/singularityhub/arch		official build specifications for arch linux	2016-12-14T21:18:53Z
+singularityhub/builders	https://github.com/singularityhub/builders	https://singularityhub.github.io/builders/	these are the build scripts run by the robot builders, chosen by the user for a given build	2018-03-17T02:38:20Z
+singularityhub/busybox	https://github.com/singularityhub/busybox	https://singularityhub.github.io/registry-org/singularityhub/busybox/	official build specifications for busybox	2016-12-14T21:19:35Z
+singularityhub/centos	https://github.com/singularityhub/centos		official build specifications for centos	2016-12-14T21:15:58Z
+singularityhub/circle-ci	https://github.com/singularityhub/circle-ci		example builder for Singularity containers using Circle Continuous Integration, circle-ci	2018-10-17T22:51:48Z
+singularityhub/circle-ci-sregistry	https://github.com/singularityhub/circle-ci-sregistry		An example repository to deploy multiple containers to a Singularity Registry Server from CircleCI	2019-02-07T21:15:34Z
+singularityhub/container-diff	https://github.com/singularityhub/container-diff	https://singularityhub.github.io/container-diff/examples/demo	Wrapper to use GoogleContainerTools container-diff with Singularity images	2018-05-01T11:52:13Z
+singularityhub/container-tree	https://github.com/singularityhub/container-tree	https://singularityhub.github.io/container-tree/	testing creating graphs that represent container file systems	2018-05-20T19:22:36Z
+singularityhub/containers	https://github.com/singularityhub/containers	https://singularityhub.github.io/containers/	interface for browsing public registry containers	2017-08-27T03:12:10Z
+singularityhub/data-container	https://github.com/singularityhub/data-container		Developing containers optimized for data (under development)	2020-06-05T17:22:11Z
+singularityhub/debian	https://github.com/singularityhub/debian		official build specifications for debian	2016-12-14T21:20:49Z
+singularityhub/docker	https://github.com/singularityhub/docker		small docker tools for Singularity containers	2018-02-13T21:18:53Z
+singularityhub/docker2singularity	https://github.com/singularityhub/docker2singularity	https://hub.docker.com/r/singularityware/docker2singularity/tags/	A docker image for converting docker images to singularity images.	2016-08-05T20:53:24Z
+singularityhub/github-ci	https://github.com/singularityhub/github-ci		An example GitHub Action (CI) to build a Singularity container	2019-08-15T20:08:23Z
+singularityhub/hello-registry	https://github.com/singularityhub/hello-registry		testing registry for singularity hub and singularity registry	2017-07-10T19:04:57Z
+singularityhub/hello-world	https://github.com/singularityhub/hello-world		testing container for singularity hub	2017-07-05T01:14:50Z
+singularityhub/interface	https://github.com/singularityhub/interface	https://singularityhub.github.io/interface/	user interface for managing containers with sregistry global client, and making recipes	2018-03-24T15:52:58Z
+singularityhub/jupyter	https://github.com/singularityhub/jupyter		official build specifications for jupyter	2016-12-14T22:39:04Z
+singularityhub/language-singularity	https://github.com/singularityhub/language-singularity		Singularity syntax highlighting support for Atom	2018-03-13T14:17:33Z
+singularityhub/linuxbrew	https://github.com/singularityhub/linuxbrew		official build specifications for linuxbrew	2016-12-14T21:52:45Z
+singularityhub/mongo	https://github.com/singularityhub/mongo		official build specifications for mongo db	2016-12-20T23:14:58Z
+singularityhub/motd	https://github.com/singularityhub/motd		message of the day examples for Singularity containers	2019-01-24T18:26:48Z
+singularityhub/neurodebian	https://github.com/singularityhub/neurodebian		Singularity Images for neurodebian	2017-02-17T12:11:57Z
+singularityhub/nginx	https://github.com/singularityhub/nginx		official build specifications for nginx	2016-12-14T22:37:44Z
+singularityhub/open-mpi	https://github.com/singularityhub/open-mpi		official build specifications for open-mpi	2016-12-14T21:58:37Z
+singularityhub/paraview-visualizer	https://github.com/singularityhub/paraview-visualizer		Singularity container recipes to run the paraview visualizer	2018-11-27T15:39:32Z
+singularityhub/paraviewweb-apache	https://github.com/singularityhub/paraviewweb-apache		Testing running an apache server with paraview in Singularity	2018-11-22T14:13:56Z
+singularityhub/rar	https://github.com/singularityhub/rar		work with RAR archives with tools in a Singularity container	2018-06-02T22:37:01Z
+singularityhub/redis	https://github.com/singularityhub/redis			2017-01-13T02:41:14Z
+singularityhub/reggie	https://github.com/singularityhub/reggie		Simple Go HTTP client for OCI Distribution, built on top of Resty	2020-10-19T21:37:57Z
+singularityhub/registry	https://github.com/singularityhub/registry	https://singularityhub.github.io/registry/	testing an idea for a static container registry (under development)	2019-01-26T21:29:28Z
+singularityhub/registry-google	https://github.com/singularityhub/registry-google		static container registry deployed to GitHub pages that uses Google Cloud Build and Google Storage	2019-02-16T17:07:12Z
+singularityhub/registry-org	https://github.com/singularityhub/registry-org	https://singularityhub.github.io/registry-org/	a modular (organization level) static container registry	2019-01-31T21:50:49Z
+singularityhub/sbgrid-singularity	https://github.com/singularityhub/sbgrid-singularity		Singularity containers serving SBGrid software	2017-09-21T02:48:18Z
+singularityhub/scientific-linux	https://github.com/singularityhub/scientific-linux		official build specifications for scientific linux	2016-12-14T21:17:16Z
+singularityhub/sif	https://github.com/singularityhub/sif	https://singularityhub.github.io/sif/	python client for reading sif image files	2018-12-11T00:49:32Z
+singularityhub/singularity-ci	https://github.com/singularityhub/singularity-ci		example builders for Singularity images using continuous integration	2016-10-06T19:57:27Z
+singularityhub/singularity-cli	https://github.com/singularityhub/singularity-cli	https://singularityhub.github.io/singularity-cli/	streamlined singularity python client (spython) for singularity	2018-02-07T00:52:14Z
+singularityhub/singularity-compose	https://github.com/singularityhub/singularity-compose	https://singularityhub.github.io/singularity-compose	orchestration for singularity containers (under development)	2019-05-27T13:53:50Z
+singularityhub/singularity-compose-example	https://github.com/singularityhub/singularity-compose-example		An example app using singularity-compose for orchestration (under development)	2019-05-27T13:19:18Z
+singularityhub/singularity-compose-examples	https://github.com/singularityhub/singularity-compose-examples		A simple example of running a MongoDB instance to query a database	2019-06-21T16:49:26Z
+singularityhub/singularity-compose-simple	https://github.com/singularityhub/singularity-compose-simple		One instance example with singularity-compose	2019-06-19T22:30:27Z
+singularityhub/singularity-docker	https://github.com/singularityhub/singularity-docker	https://quay.io/repository/singularity/singularity	docker base images to provide release versions of Singularity	2018-11-20T23:07:55Z
+singularityhub/singularity-in-docker	https://github.com/singularityhub/singularity-in-docker		Use Docker as a shell to store a Singularity image	2019-09-01T18:10:04Z
+singularityhub/singularity-orb	https://github.com/singularityhub/singularity-orb	https://circleci.com/orbs/registry/orb/singularity/singularity	Circle CI orb for interacting with Singularity client	2019-02-28T21:02:40Z
+singularityhub/singularity-orb-example	https://github.com/singularityhub/singularity-orb-example		An example repository to use the Singularity Orb singularity/singularity on CircleCi	2019-03-01T00:22:18Z
+singularityhub/singularity-python	https://github.com/singularityhub/singularity-python		command line tool for working with singularity hub and singularity containers	2016-07-08T18:41:51Z
+singularityhub/singularity-slack	https://github.com/singularityhub/singularity-slack		simple export of Singularity slack, run daily via cron. Very sophisticated, yes.	2017-05-05T08:07:27Z
+singularityhub/singularity.lang	https://github.com/singularityhub/singularity.lang		xml syntax file for formatting Singularity recipes in gedit	2018-05-09T17:11:46Z
+singularityhub/singularity2docker	https://github.com/singularityhub/singularity2docker		convert a singularity image back to Docker, full circle! #containerfriends	2018-04-10T23:08:51Z
+singularityhub/singularityhub-docs	https://github.com/singularityhub/singularityhub-docs	https://singularityhub.github.io/singularityhub-docs	improved documentation for Singularity Hub	2019-07-13T21:17:51Z
+singularityhub/singularityhub.github.io	https://github.com/singularityhub/singularityhub.github.io	https://singularityhub.github.io	Container tools for scientific computing! Docs at https://singularityhub.github.io/singularityhub-docs	2017-01-24T19:29:48Z
+singularityhub/spython-feedstock	https://github.com/singularityhub/spython-feedstock		A conda-smithy repository for spython.	2019-05-23T20:05:44Z
+singularityhub/sregistry	https://github.com/singularityhub/sregistry	https://singularityhub.github.io/sregistry	server for storage and management of singularity images	2017-08-03T02:17:03Z
+singularityhub/sregistry-cache	https://github.com/singularityhub/sregistry-cache		A proxy, cache server for a Singularity Registry (under development)	2019-08-27T16:45:44Z
+singularityhub/sregistry-cli	https://github.com/singularityhub/sregistry-cli	https://singularityhub.github.io/sregistry-cli/	Singularity Global Client for container management	2017-12-14T18:39:01Z
+singularityhub/sregistry-nomad	https://github.com/singularityhub/sregistry-nomad		Testing out Singularity Registry Server with Nomad (under development)	2019-11-17T17:34:23Z
+singularityhub/stools	https://github.com/singularityhub/stools		singularity container tools for continuous integration and quality assessment	2018-04-26T18:56:19Z
+singularityhub/stools-clair	https://github.com/singularityhub/stools-clair		An example of using stools-clair for Travis and Circle Continuous Integration	2018-04-27T20:56:28Z
+singularityhub/tiny-container	https://github.com/singularityhub/tiny-container		Hold me closer, tiny container...	2019-07-14T17:56:38Z
+singularityhub/travis-ci	https://github.com/singularityhub/travis-ci	https://vsoch.github.io/2018/singularity-ci/	an example builder to build a container with Travis CI, and push to a Singularity Registry Server (or other endpoint)	2018-10-17T20:21:26Z
+singularityhub/ubuntu	https://github.com/singularityhub/ubuntu		build files for ubuntu	2016-12-14T21:09:37Z
+singularityhub/watchme-singularity-pull	https://github.com/singularityhub/watchme-singularity-pull		An example using watchme reproducible monitoring to record resource usage for Singularity pulls	2019-05-18T15:08:49Z
+pydicom/contrib-pydicom	https://github.com/pydicom/contrib-pydicom		contributions to the core pydicom base, including tutorials, extra plugins, etc.	2017-08-17T01:31:20Z
+pydicom/deid	https://github.com/pydicom/deid	https://pydicom.github.io/deid/	best effort anonymization for medical images using python	2017-06-13T03:16:10Z
+pydicom/dicom-cleaner	https://github.com/pydicom/dicom-cleaner		detection of burned in pixels using OCR (under development)	2017-06-23T21:00:04Z
+pydicom/dicom-containers	https://github.com/pydicom/dicom-containers		singularity and Docker containers to easily get started with common dicom tools	2017-05-27T21:16:24Z
+pydicom/dicom-cookies	https://github.com/pydicom/dicom-cookies	https://pydicom.github.io/dicom-cookies/	an example JSON API dicom cookie dataset for testing DICOM services	2017-05-27T02:11:19Z
+pydicom/dicom-database	https://github.com/pydicom/dicom-database	https://pydicom.github.io/dicom-database/	a Dockerized storage and send/receiver for dicom images, intended to easily work with pydicom/dicom-datasets	2017-07-02T00:54:09Z
+pydicom/inspecit	https://github.com/pydicom/inspecit		"""Inspect It"" is a Dockerized interface for testing medical images against recipes to anonymise data (deid)"	2017-09-28T17:32:04Z
+pydicom/node-dcm	https://github.com/pydicom/node-dcm		Dockerized nodes for dicom (under development)	2017-05-20T23:11:22Z
+pydicom/pydicom	https://github.com/pydicom/pydicom	https://pydicom.github.io/pydicom/dev	Read, modify and write DICOM files with python code	2013-10-31T02:58:52Z
+pydicom/pydicom-data	https://github.com/pydicom/pydicom-data		Most of the test files used with pydicom, downloaded to cache when needed	2020-06-28T22:38:42Z
+pydicom/pydicom.github.io	https://github.com/pydicom/pydicom.github.io	https://pydicom.github.io/	getting started with dicom in python	2017-05-28T02:57:55Z
+pydicom/sendit	https://github.com/pydicom/sendit	https://pydicom.github.io/sendit/	an application to receive, de-identify, and send dicoms to storage	2017-06-04T00:04:38Z
+sci-f/apps	https://github.com/sci-f/apps	https://sci-f.github.io/apps	Modular application recipes for the Scientific Filesystem (SCIF)	2017-09-15T04:19:46Z
+sci-f/builder	https://github.com/sci-f/builder	https://sci-f.github.io/builder/	a template ready to go to easily build, test, and deploy reproducible SCIF containers!	2018-06-26T22:18:21Z
+sci-f/cftw	https://github.com/sci-f/cftw	https://containers-ftw.github.io/cftw/	ctfw (containers for the win) is a base python module for competitive containers	2017-06-15T01:58:04Z
+sci-f/container.scif	https://github.com/sci-f/container.scif	https://sci-f.github.io/container.scif/	"example scientific filesystem to assess metrics across different solutions to a single problem, printing ""Hello World"""	2017-09-06T19:37:27Z
+sci-f/demo-ftw	https://github.com/sci-f/demo-ftw		demo / testing for containers ftw framework, testing building and running on CI	2017-06-19T23:04:15Z
+sci-f/flavours-of-physics.scif	https://github.com/sci-f/flavours-of-physics.scif	https://containers-ftw.github.io/hosting-tutorial	containers-ftw version of https://www.kaggle.com/c/flavours-of-physics	2017-06-30T19:54:30Z
+sci-f/hello-world.scif	https://github.com/sci-f/hello-world.scif		A hello world example for a scientific filesystem	2018-01-17T19:51:01Z
+sci-f/jobmaker.scif	https://github.com/sci-f/jobmaker.scif		An example container with modules to run an executable in different environments / with different job managers	2017-09-14T02:57:52Z
+sci-f/metrics.scif	https://github.com/sci-f/metrics.scif		an example scientific filesystem to provide custom metrics and helpers for a container	2017-09-13T01:44:48Z
+sci-f/nextflow-scif	https://github.com/sci-f/nextflow-scif	https://github.com/BU-ISCIII/nextflow-scif	This is a demo about how to develop and deploy a pipeline using nextflow, scif, a container (Singularity and Docker) and its posterior deployment.	2018-08-03T22:33:01Z
+sci-f/sci-f.github.io	https://github.com/sci-f/sci-f.github.io	https://sci-f.github.io	The Scientific Filesystem Specification and Documentation	2017-06-21T20:58:27Z
+sci-f/scientific-example.scif	https://github.com/sci-f/scientific-example.scif		an example variant calling scientific workflow with the standard container integration format (SCI-F)	2017-09-24T01:05:59Z
+sci-f/scif-go	https://github.com/sci-f/scif-go	https://sci-f.github.io/	golang implementation of the Scientific Filesystem	2019-03-26T16:48:35Z
+sci-f/snakemake.scif	https://github.com/sci-f/snakemake.scif	https://sci-f.github.io/snakemake.scif	Tutorial with snakemake and Scientific Filesystem	2018-01-22T18:29:00Z
+sci-f/tob	https://github.com/sci-f/tob	https://groups.google.com/a/opencontainers.org/forum/#!forum/tob	Technical Oversight Board (TOB)	2019-04-03T22:55:54Z
+USRSE/blog	https://github.com/USRSE/blog	https://usrse.github.io/blog/	syndicated blog for research software engineer stories and experiences	2019-05-13T15:59:43Z
+USRSE/logo	https://github.com/USRSE/logo		logos, templates, and related resources	2019-06-08T18:37:49Z
+USRSE/rse-roles	https://github.com/USRSE/rse-roles	https://us-rse.org/rse-roles/	A community database of shared job descriptions, and other relevant metadata about RSE roles (under development)	2021-01-10T00:12:35Z
+USRSE/rse-stories	https://github.com/USRSE/rse-stories	https://usrse.github.io/rse-stories/	What is an RSE? What is your story? By sharing stories, we can better understand what it means to be a research software engineer.	2019-09-26T18:51:46Z
+USRSE/rse-stories-episodes-1	https://github.com/USRSE/rse-stories-episodes-1		Research Software Engineer stories supplementary repository for episode audio	2020-06-03T17:39:28Z
+USRSE/usrse-map	https://github.com/USRSE/usrse-map	https://us-rse.org/usrse-map/	A map to show representation for the US-RSE Association	2020-02-15T21:27:01Z
+USRSE/usrse.github.io	https://github.com/USRSE/usrse.github.io	https://us-rse.org	US RSE umbrella web page	2018-02-09T13:03:03Z
+openbases/builder-jspsych	https://github.com/openbases/builder-jspsych		a template to build, test, deploy, and publish a jspych experiment container and paper for Open Research Experiments	2018-08-29T21:57:42Z
+openbases/builder-pdf	https://github.com/openbases/builder-pdf	https://openbases.github.io/builder-pdf	template to publish a pdf (and all associated generation files) to Github Pages using whedon docker	2018-09-03T20:12:32Z
+openbases/docs	https://github.com/openbases/docs	https://openbases.github.io	Open Research Experiments	2018-08-25T19:39:28Z
+openbases/experiment-jspsych	https://github.com/openbases/experiment-jspsych	https://openbases.github.io/experiment-jspsych/	a base example for a jspsych experiment	2018-08-30T09:21:43Z
+openbases/extract-dockerfile	https://github.com/openbases/extract-dockerfile	https://openbases.github.io/extract-dockerfile	An example to extract metadata from a Dockerfile using schema.org	2018-11-05T15:51:25Z
+openbases/openbases-badges	https://github.com/openbases/openbases-badges		a resource to provide badges, and sets of badges, for openbases	2018-09-04T03:25:59Z
+openbases/openbases-icons	https://github.com/openbases/openbases-icons	https://openbases.github.io/openbases-icons/preview	fun icon sets to select from for openbases previews and templates	2018-09-08T05:27:04Z
+openbases/openbases-jekyll-theme	https://github.com/openbases/openbases-jekyll-theme	https://openbases.github.io/openbases-jekyll-theme/	"a jekyll theme likely for a ""docs"" folder of an openbases component"	2018-09-02T22:06:01Z
+openbases/openbases-pdf	https://github.com/openbases/openbases-pdf	https://openbases.github.io/openbases-pdf/	Docker image to build paper PDFs 	2018-08-30T22:37:05Z
+openbases/openbases-python	https://github.com/openbases/openbases-python	https://openbases.github.io/openbases-python/	Open Bases python helpers for https://openbases.github.io	2018-09-01T18:49:29Z
+openbases/openbases.github.io	https://github.com/openbases/openbases.github.io	https://openbases.github.io	documentation web root for open research bases, rendered from https://www.github.com/openbases/docs	2018-08-28T19:22:37Z
+openbases/ore	https://github.com/openbases/ore		Open Research Experiments	2018-09-28T11:35:51Z
+openbases/orebot	https://github.com/openbases/orebot		testing a GIthub robot	2018-10-11T22:42:16Z
+openbases/submission-joss	https://github.com/openbases/submission-joss	https://openbases.github.io/submission-joss/	build and validate a paper.md, and generate a pdf preview for a JOSS submission	2018-09-28T23:27:27Z
+openschemas/dockerfiles	https://github.com/openschemas/dockerfiles	https://openschemas.github.io/dockerfiles/	More scaled example of using schema.org to generate metadata for Dockerfiles (container recipes)	2018-11-11T22:02:36Z
+openschemas/extractor-container	https://github.com/openschemas/extractor-container		module to extract metadata for containers, distributions, and recipe files	2018-09-19T16:01:44Z
+openschemas/extractors	https://github.com/openschemas/extractors	https://cloud.docker.com/u/openschemas/repository/docker/openschemas/extractors	generic extraction recipes to get you started extracting schema.org entities for your software, data, and all things	2018-11-13T18:22:21Z
+openschemas/map2model	https://github.com/openschemas/map2model		generate a specification for schema.org from a mapping (tsv files)	2018-09-19T01:56:54Z
+openschemas/openschemas-python	https://github.com/openschemas/openschemas-python	https://openschemas.github.io/openschemas-python/	python library for interacting with schemas	2018-09-21T20:45:33Z
+openschemas/openschemas.github.io	https://github.com/openschemas/openschemas.github.io	https://openschemas.github.io	main site for openschemas specifications and documentation	2018-09-20T06:52:11Z
+openschemas/schema-builder	https://github.com/openschemas/schema-builder	https://hub.docker.com/r/openschemas/schema-builder	generate input files for a bioschema specification for schema.org	2018-09-16T23:56:35Z
+openschemas/schemaorg	https://github.com/openschemas/schemaorg	https://openschemas.github.io/schemaorg/	python functions for applied use of schema.org 	2018-10-21T03:55:18Z
+openschemas/schemaorg-template	https://github.com/openschemas/schemaorg-template	http://schema.org/	Schema.org - schemas and (appengine) software	2018-10-01T23:45:58Z
+openschemas/spec-container	https://github.com/openschemas/spec-container	https://openschemas.github.io/spec-container/	this is the container repository for the schemas.org Container specification proposal	2018-09-17T17:07:04Z
+openschemas/spec-hardware	https://github.com/openschemas/spec-hardware	https://openschemas.github.io/spec-hardware/	Openschemas specification to describe a hardware component of a computational system	2018-10-03T21:47:44Z
+openschemas/spec-operatingsystem	https://github.com/openschemas/spec-operatingsystem	https://openschemas.github.io/spec-operatingsystem/	a schema.org specification to describe an operating system	2018-10-08T13:12:05Z
+openschemas/spec-template	https://github.com/openschemas/spec-template	https://openschemas.github.io/spec-container/	a template to start from to generate a spec-<name> specification for schema.org	2018-09-19T02:43:58Z
+openschemas/spec-virtualization	https://github.com/openschemas/spec-virtualization	https://openschemas.github.io/spec-virtualization/	schema.org specification to describe virtualization technologies	2018-10-05T17:21:11Z
+openschemas/specifications	https://github.com/openschemas/specifications	https://openschemas.github.io/specifications	specifications for open schemas are published here	2018-09-19T08:31:27Z
+good-labs/.github	https://github.com/good-labs/.github		shared templates for projects for the Good Labs	2019-04-29T18:43:46Z
+good-labs/awesome-governance	https://github.com/good-labs/awesome-governance		A curated list of awesome governance resources	2019-07-02T18:45:02Z
+good-labs/good-labs.github.io	https://github.com/good-labs/good-labs.github.io	https://good-labs.github.io/	Web interface for the Good Labs	2019-04-29T18:48:25Z
+good-labs/greater-good-affirmation	https://github.com/good-labs/greater-good-affirmation	https://good-labs.github.io/greater-good-affirmation/	An affirmation that your open source community exists for the greater good.	2019-04-28T17:51:54Z
+good-labs/human-menu	https://github.com/good-labs/human-menu	https://good-labs.github.io/human-menu/	The Human Menu provides a selection of real world “human” activities to combat the digital attention economy.	2019-05-05T18:11:22Z
+good-labs/logo	https://github.com/good-labs/logo		logo and related branding files for the Good Lab	2019-04-29T15:14:49Z
+good-labs/slopi-communication	https://github.com/good-labs/slopi-communication	http://blog.greptilian.com/2020/01/25/slopi-communication/	Searchable Linkable Open Public Indexed (SLOPI) Communication	2019-05-08T09:17:01Z
+hpsee/ask-ci	https://github.com/hpsee/ask-ci		resources for the ask-cyberinfrastructure site	2019-01-21T00:32:48Z
+hpsee/askci-drawing	https://github.com/hpsee/askci-drawing		A small script to randomly select a winner for all post contributions between two dates. Let there be pizza!	2019-11-22T18:21:59Z
+hpsee/askci-term-slurm	https://github.com/hpsee/askci-term-slurm		"SLURM refers to the ""Simple Linux Utility for Resource Management"" and is a job manager for high performance computing."	2019-12-06T18:59:49Z
+hpsee/askci-term-template	https://github.com/hpsee/askci-term-template		A template repository to generate a new term (under development)	2019-11-25T16:32:07Z
+hpsee/cyberteam	https://github.com/hpsee/cyberteam	https://hpsee.github.io/cyberteam/	future home of the NorthEast Cyberteam	2019-08-11T15:38:36Z
+hpsee/discourse-cluster	https://github.com/hpsee/discourse-cluster	https://hpsee.github.io/discourse-cluster/	Simple scripts to export posts for a discourse category, and do a clustering	2019-10-19T14:25:06Z
+hpsee/discourse-rankings	https://github.com/hpsee/discourse-rankings	https://hpsee.github.io/discourse-rankings	Simple ruby script to calculate top contributors (groups and users) for last month	2019-09-13T18:03:40Z
+hpsee/discourse-theme	https://github.com/hpsee/discourse-theme		Example to develop a discourse theme using Docker to test, and meta.discourse to design the theme	2019-04-06T06:08:36Z
+hpsee/top	https://github.com/hpsee/top	https://hpsee.github.io/top	Digital Book of World Records for High Performance Computing	2019-06-12T00:58:04Z
+hpcng/singularity	https://github.com/hpcng/singularity	https://www.sylabs.io/singularity/	Singularity: Application containers for Linux	2015-10-09T22:15:12Z
+hpcng/singularity-admindocs	https://github.com/hpcng/singularity-admindocs		Admin documentation	2018-06-01T19:26:04Z
+hpcng/singularity-userdocs	https://github.com/hpcng/singularity-userdocs		User Documentation	2018-06-01T19:24:09Z
