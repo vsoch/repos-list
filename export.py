@@ -92,6 +92,12 @@ def get_org_repos(org):
     return get_paginated_responses(url)
 
 
+def get_single_repository(name):
+    url = "%s/repos/%s" %(BASE, name)
+    headers = get_headers()
+    response = requests.get(url, headers=headers)
+    return response.json()
+
 def main():
 
     # A username is required

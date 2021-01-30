@@ -851,3 +851,273 @@ hpsee/top	https://github.com/hpsee/top	https://hpsee.github.io/top	Digital Book 
 hpcng/singularity	https://github.com/hpcng/singularity	https://www.sylabs.io/singularity/	Singularity: Application containers for Linux	2015-10-09T22:15:12Z
 hpcng/singularity-admindocs	https://github.com/hpcng/singularity-admindocs		Admin documentation	2018-06-01T19:26:04Z
 hpcng/singularity-userdocs	https://github.com/hpcng/singularity-userdocs		User Documentation	2018-06-01T19:24:09Z
+rseng/starter-pack	https://github.com/rseng/starter-pack	https://rseng.github.io/starter-pack	Getting started guide to bringing together research software engineers at your institution if you're an RSE yourself	2019-06-01T16:21:17Z
+rseng/community-template	https://github.com/rseng/community-template	http://rseng.github.io/community-template/	Use this template to create a space for your RSE group in the USRSE organization	2019-06-08T21:30:39Z
+rseng/rse-phenotype	https://github.com/rseng/rse-phenotype	https://rseng.github.io/rse-phenotype	What kind of research software engineer are you? Make an image to show the world!	2019-07-16T22:28:21Z
+rseng/rse-phenotypes	https://github.com/rseng/rse-phenotypes	https://rseng.github.io/rse-phenotype	Contribute your Research Software Engineer (RSE) phenotype!	2019-07-17T17:44:06Z
+rseng/eResearch-meeting-list	https://github.com/rseng/eResearch-meeting-list	https://jamespjh.github.io/eResearch-meeting-list/		2019-11-08T16:42:20Z
+rseng/rse-glossary	https://github.com/rseng/rse-glossary	https://rseng.github.io/rse-glossary/	The Research Software Engineer Glossary of Terms	2019-11-11T15:56:17Z
+rseng/rse-manifesto	https://github.com/rseng/rse-manifesto	https://rseng.github.io/rse-manifesto/	words to live by, sometimes	2019-12-01T19:51:59Z
+rseng/needs-love	https://github.com/rseng/needs-love	https://rseng.github.io/needs-love/	because projects and ideas sometimes need a little love	2019-12-17T02:25:41Z
+rseng/logos	https://github.com/rseng/logos		assets, logos and various resources for research software engineers	2019-12-17T19:19:23Z
+rseng/rseng.github.io	https://github.com/rseng/rseng.github.io	https://rseng.github.io/	The Research Software Engineer community projects	2019-12-17T20:20:11Z
+rseng/github-support	https://github.com/rseng/github-support		Create a database of errors and issue reports all using GitHub and the helpme client	2019-12-17T22:54:34Z
+rseng/awesome-rseng	https://github.com/rseng/awesome-rseng	https://rseng.github.io/awesome-rseng/	A curated list of GitHub organizations that primarily serve open source or academic software projects.	2020-02-25T22:11:56Z
+rseng/good-first-issues	https://github.com/rseng/good-first-issues		"GitHub action to generate a web interface for issues tagged with ""good first issue"" across a list of repositories"	2020-02-28T16:29:54Z
+rseng/search	https://github.com/rseng/search		a search interface for the rseng community projects	2020-03-14T19:14:02Z
+rseng/remote-bingo	https://github.com/rseng/remote-bingo	https://rseng.github.io/remote-bingo/	A fun, remote (and coronapocapyspe) themed bingo game	2020-04-05T22:50:47Z
+rseng/google-cloud-cvat	https://github.com/rseng/google-cloud-cvat		Documentation for deployment of cvat on Google Cloud (under development)	2020-04-17T21:13:50Z
+rseng/software	https://github.com/rseng/software	https://rseng.github.io/software/	research software encyclopedia database	2020-05-31T15:30:49Z
+rseng/rse	https://github.com/rseng/rse	https://rseng.github.io/rse/	tools for assessment and categorization of research software	2020-06-01T19:09:09Z
+rseng/rseng	https://github.com/rseng/rseng	https://rseng.github.io/rseng/	research software engineering taxonomy and criteria	2020-06-10T18:52:32Z
+rseng/rse-action	https://github.com/rseng/rse-action	https://rseng.github.io/software/	GitHub action to generate web interface for a research software encyclopedia	2020-06-22T20:50:17Z
+rseng/software-example	https://github.com/rseng/software-example	https://rseng.github.io/software-example/	An example research software encyclopedia database. You can use as a template, or follow a tutorial to generate for yourself!	2020-06-25T22:45:07Z
+rseng/pdf-generator	https://github.com/rseng/pdf-generator		Generate a pdf rendering with a GitHub action, optionally with a web interface.	2020-07-05T22:39:48Z
+rseng/opensource-heartbeat-action	https://github.com/rseng/opensource-heartbeat-action		Generate an interface to showcase the open source contributions for your organization or user group (under development)	2020-08-18T17:33:57Z
+con/centerforopenneuroscience.org	https://github.com/con/centerforopenneuroscience.org	http://centerforopenneuroscience.org	Website materials	2015-07-22T02:37:29Z
+con/tributors	https://github.com/con/tributors	https://con.github.io/tributors/	Pay tribute to your contributors! A tool to automatically update contributor files.	2020-06-27T19:29:03Z
+rust-bio/rust-htslib	https://github.com/rust-bio/rust-htslib		This library provides HTSlib bindings and a high level Rust API for reading and writing BAM files.	2015-02-12T10:48:32Z
+expfactory-experiments/adaptive-n-back	https://github.com/expfactory-experiments/adaptive-n-back	https://expfactory-experiments.github.io/adaptive-n-back/	testing container based version of adaptive n back	2017-10-25T17:56:35Z
+expfactory-experiments/tower-of-london	https://github.com/expfactory-experiments/tower-of-london	https://expfactory-experiments.github.io/tower-of-london/	container based version of tower of london	2017-10-25T18:57:33Z
+expfactory-experiments/test-task	https://github.com/expfactory-experiments/test-task	https://expfactory-experiments.github.io/test-task/	a test task experiment, primarily for testing	2017-11-01T19:56:42Z
+expfactory-experiments/breath-counting-task	https://github.com/expfactory-experiments/breath-counting-task	https://expfactory-experiments.github.io/breath-counting-task/	the breath counting task asks participants to breath in and out, and practice mindfullness	2017-11-08T22:46:18Z
+expfactory-experiments/attention-network-task	https://github.com/expfactory-experiments/attention-network-task	https://expfactory-experiments.github.io/attention-network-task/		2017-11-09T10:37:26Z
+expfactory-experiments/dospert-rt-survey	https://github.com/expfactory-experiments/dospert-rt-survey	https://expfactory-experiments.github.io/dospert-rt-survey/	Domain specific risk taking Survey (dospert-rt) for the Experiment Factory	2017-11-09T15:48:50Z
+expfactory-experiments/dospert-rp-survey	https://github.com/expfactory-experiments/dospert-rp-survey	https://expfactory-experiments.github.io/dospert-rp-survey/	Dospert_rp: Domain Specific Risk Taking Survey	2017-11-11T07:59:21Z
+expfactory-experiments/dospert-eb-survey	https://github.com/expfactory-experiments/dospert-eb-survey	https://expfactory-experiments.github.io/dospert-eb-survey/	Dospert: Domain Specific Risk Taking Survey	2017-11-11T08:02:07Z
+expfactory-experiments/alcohol-drugs-survey	https://github.com/expfactory-experiments/alcohol-drugs-survey	https://expfactory-experiments.github.io/alcohol-drugs-survey/	various questions about alcohol, smoking, and drug use	2017-11-11T14:18:51Z
+expfactory-experiments/spatial-span	https://github.com/expfactory-experiments/spatial-span	https://expfactory-experiments.github.io/spatial-span/	A test of spatial memory span	2017-11-11T14:54:15Z
+expfactory-experiments/digit-span	https://github.com/expfactory-experiments/digit-span	https://expfactory-experiments.github.io/digit-span/	digit span memory task	2017-11-11T15:54:43Z
+expfactory-experiments/emotion-regulation	https://github.com/expfactory-experiments/emotion-regulation	https://expfactory-experiments.github.io/emotion-regulation/	the emotion regulation task (warning contains disturbing images)	2017-11-11T21:33:32Z
+expfactory-experiments/angling-risk-task	https://github.com/expfactory-experiments/angling-risk-task	https://expfactory-experiments.github.io/angling-risk-task/	Determine threshold for risk taking	2017-11-11T22:01:51Z
+expfactory-experiments/angling-risk-task-always-sunny	https://github.com/expfactory-experiments/angling-risk-task-always-sunny	https://expfactory-experiments.github.io/angling-risk-task-always-sunny/	Determine threshold for risk taking	2017-11-11T22:18:15Z
+expfactory-experiments/state-mindfulness-survey	https://github.com/expfactory-experiments/state-mindfulness-survey	https://expfactory-experiments.github.io/state-mindfulness-survey/	a survey about mindfulness	2017-11-13T15:21:24Z
+expfactory-experiments/five-facet-mindfulness-survey	https://github.com/expfactory-experiments/five-facet-mindfulness-survey	https://expfactory-experiments.github.io/five-facet-mindfulness-survey/	a survey about mindfulness	2017-11-13T18:36:38Z
+expfactory-experiments/bis11-survey	https://github.com/expfactory-experiments/bis11-survey	https://expfactory-experiments.github.io/bis11-survey/	BIS-11: Barratt Impulsiveness Scale Survey	2017-11-13T20:19:01Z
+expfactory-experiments/bis-bas-survey	https://github.com/expfactory-experiments/bis-bas-survey	https://expfactory-experiments.github.io/bis-bas-survey/	BIS/BAS (Behavioral Approach/Inhibition Systems) Survey	2017-11-13T20:22:15Z
+expfactory-experiments/brief-self-control-survey	https://github.com/expfactory-experiments/brief-self-control-survey	https://expfactory-experiments.github.io/brief-self-control-survey/	survey about self control	2017-11-13T20:24:48Z
+expfactory-experiments/cognitive-reflection-survey	https://github.com/expfactory-experiments/cognitive-reflection-survey	https://expfactory-experiments.github.io/cognitive-reflection-survey/		2017-11-13T20:26:31Z
+expfactory-experiments/demographics-survey	https://github.com/expfactory-experiments/demographics-survey	https://expfactory-experiments.github.io/demographics-survey/		2017-11-13T20:27:56Z
+expfactory-experiments/dickman-survey	https://github.com/expfactory-experiments/dickman-survey	https://expfactory-experiments.github.io/dickman-survey/		2017-11-13T20:29:16Z
+expfactory-experiments/eating-survey	https://github.com/expfactory-experiments/eating-survey	https://expfactory-experiments.github.io/eating-survey/		2017-11-13T20:43:05Z
+expfactory-experiments/erq-survey	https://github.com/expfactory-experiments/erq-survey	https://expfactory-experiments.github.io/erq-survey/	Emotion Regulation Questionnaire (ERQ) Survey	2017-11-13T20:44:29Z
+expfactory-experiments/future-time-perspective-survey	https://github.com/expfactory-experiments/future-time-perspective-survey	https://expfactory-experiments.github.io/future-time-perspective-survey/		2017-11-13T20:46:15Z
+expfactory-experiments/grit-scale-survey	https://github.com/expfactory-experiments/grit-scale-survey	https://expfactory-experiments.github.io/grit-scale-survey/	grit scale survey	2017-11-13T20:47:30Z
+expfactory-experiments/holt-laury-survey	https://github.com/expfactory-experiments/holt-laury-survey	https://expfactory-experiments.github.io/holt-laury-survey/		2017-11-13T20:49:01Z
+expfactory-experiments/impulsive-venture-survey	https://github.com/expfactory-experiments/impulsive-venture-survey	https://expfactory-experiments.github.io/impulsive-venture-survey/		2017-11-13T20:50:11Z
+expfactory-experiments/k6-survey	https://github.com/expfactory-experiments/k6-survey	https://expfactory-experiments.github.io/k6-survey/		2017-11-13T20:51:18Z
+expfactory-experiments/leisure-time-activity-survey	https://github.com/expfactory-experiments/leisure-time-activity-survey	https://expfactory-experiments.github.io/leisure-time-activity-survey/		2017-11-13T20:52:47Z
+expfactory-experiments/mindful-attention-awareness-survey	https://github.com/expfactory-experiments/mindful-attention-awareness-survey	https://expfactory-experiments.github.io/mindful-attention-awareness-survey/		2017-11-13T20:53:55Z
+expfactory-experiments/mpq-control-survey	https://github.com/expfactory-experiments/mpq-control-survey	https://expfactory-experiments.github.io/mpq-control-survey/		2017-11-13T20:55:30Z
+expfactory-experiments/selection-optimization-compensation-survey	https://github.com/expfactory-experiments/selection-optimization-compensation-survey	https://expfactory-experiments.github.io/selection-optimization-compensation-survey/		2017-11-13T20:56:59Z
+expfactory-experiments/self-regulation-survey	https://github.com/expfactory-experiments/self-regulation-survey	https://expfactory-experiments.github.io/self-regulation-survey/		2017-11-13T20:58:02Z
+expfactory-experiments/sensation-seeking-survey	https://github.com/expfactory-experiments/sensation-seeking-survey	https://expfactory-experiments.github.io/sensation-seeking-survey/		2017-11-13T20:59:04Z
+expfactory-experiments/ten-item-personality-survey	https://github.com/expfactory-experiments/ten-item-personality-survey	https://expfactory-experiments.github.io/ten-item-personality-survey/		2017-11-13T21:00:25Z
+expfactory-experiments/theories-of-willpower-survey	https://github.com/expfactory-experiments/theories-of-willpower-survey	https://expfactory-experiments.github.io/theories-of-willpower-survey/		2017-11-13T21:01:29Z
+expfactory-experiments/time-perspective-survey	https://github.com/expfactory-experiments/time-perspective-survey	https://expfactory-experiments.github.io/time-perspective-survey/		2017-11-13T21:02:46Z
+expfactory-experiments/treatment-self-regulation-survey	https://github.com/expfactory-experiments/treatment-self-regulation-survey	https://expfactory-experiments.github.io/treatment-self-regulation-survey/		2017-11-13T21:04:00Z
+expfactory-experiments/upps-impulsivity-survey	https://github.com/expfactory-experiments/upps-impulsivity-survey	https://expfactory-experiments.github.io/upps-impulsivity-survey/		2017-11-13T21:05:02Z
+expfactory-experiments/antisaccade	https://github.com/expfactory-experiments/antisaccade	https://expfactory-experiments.github.io/antisaccade/		2017-11-15T00:35:20Z
+expfactory-experiments/columbia-card-task-cold	https://github.com/expfactory-experiments/columbia-card-task-cold	https://expfactory-experiments.github.io/columbia-card-task-cold/		2017-11-15T00:45:52Z
+expfactory-experiments/columbia-card-task-hot	https://github.com/expfactory-experiments/columbia-card-task-hot	https://expfactory-experiments.github.io/columbia-card-task-hot/		2017-11-15T09:59:40Z
+expfactory-experiments/dietary-decision	https://github.com/expfactory-experiments/dietary-decision	https://expfactory-experiments.github.io/dietary-decision/		2017-11-15T13:27:36Z
+expfactory-experiments/dimensional-set-shifting	https://github.com/expfactory-experiments/dimensional-set-shifting	https://expfactory-experiments.github.io/dimensional-set-shifting/		2017-11-15T13:40:15Z
+expfactory-experiments/directed-forgetting	https://github.com/expfactory-experiments/directed-forgetting	https://expfactory-experiments.github.io/directed-forgetting/		2017-11-15T13:56:39Z
+expfactory-experiments/discount-titrate	https://github.com/expfactory-experiments/discount-titrate	https://expfactory-experiments.github.io/discount-titrate/		2017-11-15T14:09:25Z
+expfactory-experiments/dot-pattern-expectancy	https://github.com/expfactory-experiments/dot-pattern-expectancy	https://expfactory-experiments.github.io/dot-pattern-expectancy/		2017-11-15T14:28:59Z
+expfactory-experiments/flanker	https://github.com/expfactory-experiments/flanker	https://expfactory-experiments.github.io/flanker/		2017-11-15T14:35:08Z
+expfactory-experiments/gm-paradigm	https://github.com/expfactory-experiments/gm-paradigm	https://expfactory-experiments.github.io/gm-paradigm/	Guitart-Masip Learning Paradigm	2017-11-15T15:07:10Z
+expfactory-experiments/go-nogo	https://github.com/expfactory-experiments/go-nogo	https://expfactory-experiments.github.io/go-nogo/		2017-11-15T15:20:54Z
+expfactory-experiments/hierarchical-rule	https://github.com/expfactory-experiments/hierarchical-rule	https://expfactory-experiments.github.io/hierarchical-rule/		2017-11-15T16:15:23Z
+expfactory-experiments/image-monitoring	https://github.com/expfactory-experiments/image-monitoring	https://expfactory-experiments.github.io/image-monitoring/		2017-11-15T16:21:27Z
+expfactory-experiments/information-sampling-task	https://github.com/expfactory-experiments/information-sampling-task	https://expfactory-experiments.github.io/information-sampling-task/		2017-11-15T16:42:03Z
+expfactory-experiments/keep-track	https://github.com/expfactory-experiments/keep-track	https://expfactory-experiments.github.io/keep-track/		2017-11-15T16:49:06Z
+expfactory-experiments/kirby	https://github.com/expfactory-experiments/kirby	https://expfactory-experiments.github.io/kirby/		2017-11-15T16:51:53Z
+expfactory-experiments/letter-memory	https://github.com/expfactory-experiments/letter-memory	https://expfactory-experiments.github.io/letter-memory/		2017-11-15T16:56:31Z
+expfactory-experiments/local-global-letter	https://github.com/expfactory-experiments/local-global-letter	https://expfactory-experiments.github.io/local-global-letter/		2017-11-15T17:00:52Z
+expfactory-experiments/local-global-shape	https://github.com/expfactory-experiments/local-global-shape	https://expfactory-experiments.github.io/local-global-shape/		2017-11-15T17:05:58Z
+expfactory-experiments/motor-selective-stop-signal	https://github.com/expfactory-experiments/motor-selective-stop-signal	https://expfactory-experiments.github.io/motor-selective-stop-signal/		2017-11-15T17:08:49Z
+expfactory-experiments/multisource	https://github.com/expfactory-experiments/multisource	https://expfactory-experiments.github.io/multisource/		2017-11-15T17:11:30Z
+expfactory-experiments/n-back	https://github.com/expfactory-experiments/n-back	https://expfactory-experiments.github.io/n-back/		2017-11-15T17:14:28Z
+expfactory-experiments/number-letter	https://github.com/expfactory-experiments/number-letter	https://expfactory-experiments.github.io/number-letter/		2017-11-15T17:17:34Z
+expfactory-experiments/perceptual-metacognition	https://github.com/expfactory-experiments/perceptual-metacognition	https://expfactory-experiments.github.io/perceptual-metacognition/		2017-11-15T17:56:22Z
+expfactory-experiments/plus-minus	https://github.com/expfactory-experiments/plus-minus	https://expfactory-experiments.github.io/plus-minus/		2017-11-15T17:59:10Z
+expfactory-experiments/probabilistic-selection	https://github.com/expfactory-experiments/probabilistic-selection	https://expfactory-experiments.github.io/probabilistic-selection/		2017-11-15T18:02:27Z
+expfactory-experiments/psychological-refractory-period-gonogo-choice	https://github.com/expfactory-experiments/psychological-refractory-period-gonogo-choice	https://expfactory-experiments.github.io/psychological-refractory-period-gonogo-choice/		2017-11-15T18:06:11Z
+expfactory-experiments/psychological-refractory-period-two-choices	https://github.com/expfactory-experiments/psychological-refractory-period-two-choices	https://expfactory-experiments.github.io/psychological-refractory-period-two-choices/		2017-11-15T18:11:25Z
+expfactory-experiments/ax-cpt	https://github.com/expfactory-experiments/ax-cpt	https://expfactory-experiments.github.io/ax-cpt/		2017-11-15T18:31:31Z
+expfactory-experiments/bickel-titrator	https://github.com/expfactory-experiments/bickel-titrator	https://expfactory-experiments.github.io/bickel-titrator/		2017-11-15T19:12:00Z
+expfactory-experiments/choice-reaction-time	https://github.com/expfactory-experiments/choice-reaction-time	https://expfactory-experiments.github.io/choice-reaction-time/		2017-11-15T19:16:43Z
+expfactory-experiments/random-number-generation	https://github.com/expfactory-experiments/random-number-generation	https://expfactory-experiments.github.io/random-number-generation/		2017-11-15T21:03:53Z
+expfactory-experiments/ravens	https://github.com/expfactory-experiments/ravens	https://expfactory-experiments.github.io/ravens/		2017-11-15T21:08:37Z
+expfactory-experiments/recent-probes	https://github.com/expfactory-experiments/recent-probes	https://expfactory-experiments.github.io/recent-probes/		2017-11-15T21:59:37Z
+expfactory-experiments/shape-matching	https://github.com/expfactory-experiments/shape-matching	https://expfactory-experiments.github.io/shape-matching/		2017-11-15T22:04:24Z
+expfactory-experiments/shift-task	https://github.com/expfactory-experiments/shift-task	https://expfactory-experiments.github.io/shift-task/		2017-11-15T22:11:03Z
+expfactory-experiments/simple-reaction-time	https://github.com/expfactory-experiments/simple-reaction-time	https://expfactory-experiments.github.io/simple-reaction-time/		2017-11-15T22:13:45Z
+expfactory-experiments/simon	https://github.com/expfactory-experiments/simon	https://expfactory-experiments.github.io/simon/		2017-11-15T22:21:08Z
+expfactory-experiments/stim-selective-stop-signal	https://github.com/expfactory-experiments/stim-selective-stop-signal	https://expfactory-experiments.github.io/stim-selective-stop-signal/		2017-11-15T22:27:39Z
+expfactory-experiments/stop-signal	https://github.com/expfactory-experiments/stop-signal	https://expfactory-experiments.github.io/stop-signal/		2017-11-16T18:19:34Z
+expfactory-experiments/stroop	https://github.com/expfactory-experiments/stroop	https://expfactory-experiments.github.io/stroop/		2017-11-16T18:22:46Z
+expfactory-experiments/test-task-always-fail	https://github.com/expfactory-experiments/test-task-always-fail	https://expfactory-experiments.github.io/test-task-always-fail/		2017-11-16T18:26:20Z
+expfactory-experiments/threebytwo	https://github.com/expfactory-experiments/threebytwo	https://expfactory-experiments.github.io/threebytwo/		2017-11-16T18:28:54Z
+expfactory-experiments/tower-of-london-imagine	https://github.com/expfactory-experiments/tower-of-london-imagine	https://expfactory-experiments.github.io/tower-of-london-imagine/		2017-11-16T18:34:15Z
+expfactory-experiments/two-stage-decision	https://github.com/expfactory-experiments/two-stage-decision	https://expfactory-experiments.github.io/two-step-decision/		2017-11-16T18:39:00Z
+expfactory-experiments/volatile-bandit	https://github.com/expfactory-experiments/volatile-bandit	https://expfactory-experiments.github.io/volatile-bandit/		2017-11-16T18:41:56Z
+expfactory-experiments/willingness-to-wait	https://github.com/expfactory-experiments/willingness-to-wait	https://expfactory-experiments.github.io/willingness-to-wait/		2017-11-16T18:44:16Z
+expfactory-experiments/writing-task	https://github.com/expfactory-experiments/writing-task			2017-11-16T18:46:31Z
+expfactory-experiments/add-it-up-lightning	https://github.com/expfactory-experiments/add-it-up-lightning	https://expfactory-experiments.github.io/add-it-up-lightning/		2017-11-16T23:06:34Z
+expfactory-experiments/add-it-up-zen	https://github.com/expfactory-experiments/add-it-up-zen	https://expfactory-experiments.github.io/add-it-up-zen/		2017-11-16T23:31:31Z
+expfactory-experiments/bridge-game	https://github.com/expfactory-experiments/bridge-game	https://expfactory-experiments.github.io/bridge-game/		2017-11-16T23:41:08Z
+expfactory-experiments/bucket-game	https://github.com/expfactory-experiments/bucket-game	https://expfactory-experiments.github.io/bucket-game/		2017-11-17T00:08:57Z
+expfactory-experiments/grid-game	https://github.com/expfactory-experiments/grid-game	https://expfactory-experiments.github.io/grid-game/		2017-11-17T00:16:06Z
+expfactory-experiments/is-it-equal-lightning	https://github.com/expfactory-experiments/is-it-equal-lightning	https://expfactory-experiments.github.io/is-it-equal-lightning/		2017-11-17T00:21:52Z
+expfactory-experiments/is-it-equal-zen	https://github.com/expfactory-experiments/is-it-equal-zen	https://expfactory-experiments.github.io/is-it-equal-zen/		2017-11-17T00:25:58Z
+expfactory-experiments/number-line	https://github.com/expfactory-experiments/number-line	https://expfactory-experiments.github.io/number-line/		2017-11-17T00:31:20Z
+expfactory-experiments/whats-missing-lightning	https://github.com/expfactory-experiments/whats-missing-lightning	https://expfactory-experiments.github.io/whats-missing-lightning/		2017-11-17T00:36:02Z
+expfactory-experiments/whats-missing-zen	https://github.com/expfactory-experiments/whats-missing-zen	https://expfactory-experiments.github.io/whats-missing-zen/		2017-11-17T00:40:14Z
+expfactory-experiments/test-parse-url	https://github.com/expfactory-experiments/test-parse-url	https://expfactory-experiments.github.io/test-parse-url/	a dummy experiment to test parsing of a url	2018-01-31T18:13:35Z
+expfactory-experiments/stroop-5min	https://github.com/expfactory-experiments/stroop-5min	https://expfactory-experiments.github.io/stroop-5min/	a derivation of stroop that requires custom variables for participant timing, settings	2018-07-19T15:43:47Z
+expfactory-experiments/nback-10min-animals	https://github.com/expfactory-experiments/nback-10min-animals	https://expfactory-experiments.github.io/nback-10min-animals/	A 10-minute version of the N-back task that uses animal objects.	2018-09-03T01:00:30Z
+expfactory-experiments/attention-network-test	https://github.com/expfactory-experiments/attention-network-test	https://expfactory-experiments.github.io/attention-network-test	The attention network test, derived from the attention network task	2018-09-05T10:17:40Z
+expfactory-experiments/cue-control-food	https://github.com/expfactory-experiments/cue-control-food	https://expfactory-experiments.github.io/cue-control-food/	The cue control food experiment developed by Poldracklab 	2018-10-12T21:58:36Z
+expfactory-experiments/neuro-task-starter	https://github.com/expfactory-experiments/neuro-task-starter	https://expfactory-experiments.github.io/neuro-task-starter/	experimenting with exporting neuro-task-starter to the experiment factory	2019-12-15T17:26:07Z
+expfactory-experiments/reward-learning-task	https://github.com/expfactory-experiments/reward-learning-task	https://expfactory-experiments.github.io/reward_learning_js/	A reward learning task for the Experiment factory.	2020-07-15T19:49:30Z
+word-fish/wordfish-python	https://github.com/word-fish/wordfish-python		extract relationships from standardized terms from corpus of interest with deep learning :fish: 	2015-10-28T16:41:02Z
+word-fish/wordfish-plugins	https://github.com/word-fish/wordfish-plugins		plugins that can generate corpus or terminology for use with wordfish :fish:	2015-10-28T23:09:00Z
+word-fish/wordfish-data	https://github.com/word-fish/wordfish-data		data linked to terminologies or corpus for analysis (not yet developed)	2015-11-08T22:01:32Z
+buildtesters/buildtest	https://github.com/buildtesters/buildtest	https://buildtest.rtfd.io	HPC System and Software Testing Framework	2017-03-07T13:39:33Z
+buildtesters/schemas	https://github.com/buildtesters/schemas	https://buildtesters.github.io/schemas/	schema files and documentation for build testing schema development	2020-03-01T21:34:15Z
+snakemake/snakemake	https://github.com/snakemake/snakemake	https://snakemake.readthedocs.io	This is the development home of the workflow management system Snakemake. For general information, see	2019-10-04T14:58:11Z
+snakemake/snakemake-tutorial-data	https://github.com/snakemake/snakemake-tutorial-data	https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html	Example data for the official Snakemake tutorial	2019-10-07T07:17:03Z
+snakemake/snakemake-wrappers	https://github.com/snakemake/snakemake-wrappers	https://snakemake-wrappers.readthedocs.io	This is the development home of the Snakemake wrapper repository, see	2019-10-07T07:20:59Z
+snakemake/snakedeploy	https://github.com/snakemake/snakedeploy		deploy a snakemake pipeline directly from version control (under development)	2020-11-11T17:58:12Z
+snakemake/snakeface	https://github.com/snakemake/snakeface	https://snakeface.readthedocs.io/	The snakemake interface, currently works like a notebook (under development) 	2020-11-14T23:19:42Z
+expfactory-containers/container-stroop	https://github.com/expfactory-containers/container-stroop	https://hub.docker.com/r/vanessa/expfactory-container-stroop	experiment factory stroop container, with stroop and stroop-5min	2018-07-21T21:51:45Z
+expfactory-containers/container-nback	https://github.com/expfactory-containers/container-nback		experiment factory nback container, with adaptive-n-back and nback-10min-animals	2018-09-05T15:26:54Z
+grads/grads.github.io	https://github.com/grads/grads.github.io		Everything is going to be okay.	2019-03-10T20:38:45Z
+grads/logos	https://github.com/grads/logos		logos for grad stories	2019-03-12T21:39:07Z
+panoptes-organization/panoptes	https://github.com/panoptes-organization/panoptes		Monitor computational workflows in real time	2019-11-11T21:57:41Z
+panoptes-organization/monitor-schema	https://github.com/panoptes-organization/monitor-schema			2020-12-12T21:41:34Z
+urlstechie/urlchecker-action	https://github.com/urlstechie/urlchecker-action	https://urlchecker-python.readthedocs.io	:octocat: :link: GitHub action to extract and check urls in code and documentations.	2019-11-22T01:08:21Z
+urlstechie/urlchecker-test-repo	https://github.com/urlstechie/urlchecker-test-repo		:open_file_folder: :link: Test repository for the urlchecker-action	2020-03-01T23:59:01Z
+urlstechie/urlstechie.github.io	https://github.com/urlstechie/urlstechie.github.io	https://urlstechie.github.io/	:link: urlstechie website	2020-03-20T11:28:36Z
+urlstechie/urlchecker-python	https://github.com/urlstechie/urlchecker-python	https://urlchecker-python.readthedocs.io	:snake: :link: Python module and client for checking URLs	2020-03-20T19:05:28Z
+urlstechie/urlchecker-analysis	https://github.com/urlstechie/urlchecker-analysis		An automated analysis to assess url correctness in a subset of repositories (under development)	2020-04-05T18:52:16Z
+SORSE/sorse.github.io	https://github.com/SORSE/sorse.github.io	https://sorse.github.io	Website of the SORSE20 conference	2020-05-27T18:23:14Z
+apache/airflow	https://github.com/apache/airflow	https://airflow.apache.org/	Apache Airflow - A platform to programmatically author, schedule, and monitor workflows	2015-04-13T18:04:58Z
+yeastphenome/yeastphenome.org	https://github.com/yeastphenome/yeastphenome.org	https://yeastphenome.github.io/yeastphenome.org/		2020-07-17T15:44:23Z
+stencila/schema	https://github.com/stencila/schema	https://schema.stenci.la	📑 Schema for structured, semantic, and executable documents	2018-05-28T02:50:26Z
+conda-forge/watchme-feedstock	https://github.com/conda-forge/watchme-feedstock		A conda-smithy repository for watchme.	2019-06-07T13:42:41Z
+conda-forge/juliart-feedstock	https://github.com/conda-forge/juliart-feedstock		A conda-smithy repository for juliart.	2019-12-29T18:27:17Z
+conda-forge/sregistry-feedstock	https://github.com/conda-forge/sregistry-feedstock		A conda-smithy repository for sregistry.	2019-05-23T18:45:42Z
+conda-forge/staged-recipes	https://github.com/conda-forge/staged-recipes	https://conda-forge.org	A place to submit conda recipes before they become fully fledged conda-forge feedstocks	2015-09-02T21:49:20Z
+conda-forge/freegenes-feedstock	https://github.com/conda-forge/freegenes-feedstock		A conda-smithy repository for freegenes.	2019-09-04T06:43:24Z
+conda-forge/qme-feedstock	https://github.com/conda-forge/qme-feedstock		A conda-smithy repository for qme.	2020-05-31T20:50:57Z
+conda-forge/gridtest-feedstock	https://github.com/conda-forge/gridtest-feedstock		A conda-smithy repository for gridtest.	2020-05-06T18:24:32Z
+conda-forge/spython-feedstock	https://github.com/conda-forge/spython-feedstock		A conda-smithy repository for spython.	2019-02-25T10:41:44Z
+alecbcs/lookout	https://github.com/alecbcs/lookout		Lookout is an upstream software repository watcher built for maintaining large collections of up-to-date applications.	2019-04-04T01:45:11Z
+bloodorangeio/reggie	https://github.com/bloodorangeio/reggie		Simple Go HTTP client for OCI Distribution, built on top of Resty	2019-12-18T20:16:15Z
+quay/quay	https://github.com/quay/quay		Build, Store, and Distribute your Applications and Containers	2019-11-08T17:37:05Z
+conda-forge/deid-feedstock	https://github.com/conda-forge/deid-feedstock		A conda-smithy repository for deid.	2019-06-24T03:28:59Z
+openjournals/joss	https://github.com/openjournals/joss	https://joss.theoj.org	The Journal of Open Source Software	2016-01-24T23:34:35Z
+deisseroth-lab/two-photon	https://github.com/deisseroth-lab/two-photon		Common scripts, libraries, and utilities for 2p experiments	2020-02-16T13:54:09Z
+johanneskoester/scipaper-snakemake-2020	https://github.com/johanneskoester/scipaper-snakemake-2020		SciPaper project.	2020-06-10T15:23:46Z
+opencontainers/distribution-spec	https://github.com/opencontainers/distribution-spec	https://opencontainers.org	OCI Distribution Specification	2018-03-08T18:32:40Z
+opencontainers/image-spec	https://github.com/opencontainers/image-spec	https://www.opencontainers.org/	OCI Image Format	2016-03-22T19:34:41Z
+opencontainers/go-digest	https://github.com/opencontainers/go-digest	https://www.opencontainers.org/	Common digest package used across the container ecosystem	2016-12-16T20:47:37Z
+opencontainers/runtime-tools	https://github.com/opencontainers/runtime-tools	https://www.opencontainers.org/	OCI Runtime Tools	2016-01-13T20:10:21Z
+opencontainers/selinux	https://github.com/opencontainers/selinux	https://www.opencontainers.org/	common selinux implementation	2017-02-17T22:26:25Z
+opencontainers/tob	https://github.com/opencontainers/tob	https://groups.google.com/a/opencontainers.org/forum/#!forum/tob	Technical Oversight Board (TOB)	2016-02-10T02:58:13Z
+opencontainers/.github	https://github.com/opencontainers/.github	https://opencontainers.org	Centralized documents and information for the OCI organization and projects	2019-01-18T19:11:07Z
+datalad/datalad	https://github.com/datalad/datalad	http://datalad.org	Keep code, data, containers under control with git  and git-annex	2013-11-01T19:40:08Z
+codidact/qpixel	https://github.com/codidact/qpixel	https://codidact.com	Q&A-based community knowledge-sharing software	2020-01-29T20:45:57Z
+datalad/datalad-helpme	https://github.com/datalad/datalad-helpme		Automated issue submission for datalad via helpme	2019-12-17T18:11:14Z
+googleapis/python-api-core	https://github.com/googleapis/python-api-core	https://googleapis.dev/python/google-api-core/latest		2019-12-10T00:08:56Z
+GoogleContainerTools/container-diff	https://github.com/GoogleContainerTools/container-diff		container-diff: Diff your Docker containers	2017-08-07T19:29:12Z
+libChEBI/libChEBIpy	https://github.com/libChEBI/libChEBIpy		libChEBIpy: a Python API for accessing the ChEBI database	2015-06-04T13:55:14Z
+dask/dask-jobqueue	https://github.com/dask/dask-jobqueue	https://jobqueue.dask.org	Deploy Dask on job schedulers like PBS, SLURM, and SGE	2018-03-01T22:07:33Z
+ivotron/czi-eoss-3rd-cycle	https://github.com/ivotron/czi-eoss-3rd-cycle			2020-07-26T19:18:30Z
+pablobernabeu/Experimental-data-simulation	https://github.com/pablobernabeu/Experimental-data-simulation	https://pablo-bernabeu.shinyapps.io/experimental-data-simulation/	Generate a pseudorandom data set to simulate an experiment. This web application is suitable for educational and research purposes in experimental and quantitative sciences. It allows the creation of varied data sets with specified structures, such as between-group and within-participant variables, that can be categorical or continuous.	2020-04-18T17:08:46Z
+spdx/license-list-XML	https://github.com/spdx/license-list-XML		This is the repository for the master files that comprise the  SPDX License List	2016-03-24T21:15:07Z
+nuest/ten-simple-rules-dockerfiles	https://github.com/nuest/ten-simple-rules-dockerfiles	https://doi.org/10.1371/journal.pcbi.1008316	Ten Simple Rules for Writing Dockerfiles for Reproducible Data Science	2019-05-31T15:37:13Z
+conda-forge/helpme-feedstock	https://github.com/conda-forge/helpme-feedstock		A conda-smithy repository for helpme.	2019-12-22T03:11:30Z
+nuest/ten-simple-rules-dockerfiles-revision	https://github.com/nuest/ten-simple-rules-dockerfiles-revision			2020-08-17T15:32:01Z
+spack/contrib	https://github.com/spack/contrib		A python package for making stacked area plots of contributions over time.	2019-09-22T23:03:49Z
+pyout/pyout	https://github.com/pyout/pyout		Terminal styling for structured data	2017-12-19T18:10:05Z
+broadinstitute/cromwell	https://github.com/broadinstitute/cromwell	http://cromwell.readthedocs.io/	Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments	2015-04-17T19:39:36Z
+betterscientificsoftware/bssw.io	https://github.com/betterscientificsoftware/bssw.io	https://bssw.io	Better Scientific Software Homepage	2016-12-10T02:34:29Z
+AliaksandrSiarohin/first-order-model	https://github.com/AliaksandrSiarohin/first-order-model	https://aliaksandrsiarohin.github.io/first-order-model-website/	This repository contains the source code for the paper First Order Motion Model for Image Animation 	2019-12-11T03:55:25Z
+minio/minio-py	https://github.com/minio/minio-py	https://docs.min.io/docs/python-client-quickstart-guide.html	MinIO Client SDK for Python	2015-06-17T03:51:15Z
+stanford-rc/biobank-hpc-dev	https://github.com/stanford-rc/biobank-hpc-dev		Development work for Budget Builder (under development!)	2020-03-18T19:19:32Z
+conda-forge/singularity-compose-feedstock	https://github.com/conda-forge/singularity-compose-feedstock		A conda-smithy repository for singularity-compose.	2019-06-21T17:59:19Z
+BradnerLab/pipeline	https://github.com/BradnerLab/pipeline		bradner lab computation pipeline scripts	2013-08-30T23:16:30Z
+nilearn/nilearn	https://github.com/nilearn/nilearn	http://nilearn.github.io	Machine learning for NeuroImaging in Python	2011-01-09T19:02:23Z
+koesterlab/kim-wxs-varlociraptor	https://github.com/koesterlab/kim-wxs-varlociraptor		Analysis of the WXS dataset in https://doi.org/10.1158/2326-6066.CIR-17-0453 with Varlociraptor	2020-01-20T14:46:18Z
+nushell/nushell	https://github.com/nushell/nushell	https://www.nushell.sh/	A new type of shell	2019-05-10T16:59:42Z
+betterscientificsoftware/images	https://github.com/betterscientificsoftware/images		Repository for BSSw image files	2017-05-19T15:02:53Z
+spack/spack	https://github.com/spack/spack	https://spack.io	A flexible package manager that supports multiple versions, configurations, platforms, and compilers.	2014-01-08T09:22:12Z
+rodrigobressan/face2data	https://github.com/rodrigobressan/face2data	https://face2data.herokuapp.com/	Face2Data: Extract meaningful information from a person face in less than a second. Powered by Keras and Flask.	2019-11-11T20:43:58Z
+jamespjh/eResearch-meeting-list	https://github.com/jamespjh/eResearch-meeting-list			2019-10-02T10:47:02Z
+sfosc/sfosc	https://github.com/sfosc/sfosc		The Sustainable Free and Open Source Community Website	2018-11-30T23:09:26Z
+dnouri/nolearn	https://github.com/dnouri/nolearn	http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/	Combines the ease of use of scikit-learn with the power of Theano/Lasagne	2012-11-22T21:41:47Z
+CircleCI-Public/docker-orb	https://github.com/CircleCI-Public/docker-orb	https://circleci.com/orbs/registry/orb/circleci/docker	Install/use various Docker-related tools on CircleCI	2019-05-02T15:51:33Z
+TomHarrop/containers-sylabs-genomics	https://github.com/TomHarrop/containers-sylabs-genomics			2019-09-23T01:11:25Z
+robertaboukhalil/fastq.bio	https://github.com/robertaboukhalil/fastq.bio	https://fastq.bio	An interactive web tool for quality control of DNA sequencing data	2017-08-23T03:02:53Z
+imr-framework/virtual-scanner	https://github.com/imr-framework/virtual-scanner		An end-to-end hybrid MR simulator/console	2019-03-05T16:53:48Z
+o2r-project/containerit	https://github.com/o2r-project/containerit	https://o2r.info/containerit/	Package an R workspace and all dependencies as a Docker container	2016-07-06T08:38:31Z
+mpetroff/pannellum	https://github.com/mpetroff/pannellum	https://pannellum.org/	Pannellum is a lightweight, free, and open source panorama viewer for the web.	2012-09-17T15:43:07Z
+paviliondev/discourse-question-answer	https://github.com/paviliondev/discourse-question-answer		Discourse Question Answer Plugin	2017-01-14T15:55:24Z
+hanxiao/bert-as-service	https://github.com/hanxiao/bert-as-service	https://bert-as-service.readthedocs.io	Mapping a variable-length sentence to a fixed-length vector using BERT model	2018-11-12T10:48:50Z
+sdras/awesome-actions	https://github.com/sdras/awesome-actions		A curated list of awesome actions to use on GitHub	2018-10-17T17:53:45Z
+bimlas/bash-mosh	https://github.com/bimlas/bash-mosh		Bash: Run shell commands in multiple directories grouped by tags	2019-05-31T23:08:54Z
+OpenDrift/opendrift	https://github.com/OpenDrift/opendrift	https://opendrift.github.io	Open source framework for ocean trajectory modelling	2013-12-16T13:32:04Z
+wyattferguson/trumpbot-rnn	https://github.com/wyattferguson/trumpbot-rnn		A RNN trained on Donald Trumps tweets	2019-05-03T18:00:09Z
+RunestoneInteractive/RunestoneServer	https://github.com/RunestoneInteractive/RunestoneServer	http://runestoneinteractive.org	Interactive books for computer science	2012-01-27T00:25:53Z
+mgoubran/MIRACL	https://github.com/mgoubran/MIRACL	https://miracl.readthedocs.io	Multi-modal Image Registration And Connectivity anaLysis	2017-08-22T23:45:36Z
+kkmann/jupyter-singularity-demo	https://github.com/kkmann/jupyter-singularity-demo		demo for setting up a reproducible jupyter notebook using singularity container	2019-04-08T09:49:14Z
+t9tio/open-source-jobs	https://github.com/t9tio/open-source-jobs	https://oo.t9t.io/organizations	A list of Open Source projects offering jobs.	2019-03-21T12:58:36Z
+cole-brokamp/rize	https://github.com/cole-brokamp/rize		dockerize R shiny apps	2017-02-20T23:15:16Z
+penrose/arxiv-miner	https://github.com/penrose/arxiv-miner		analysis of arxiv equations and figures to guide Penrose development	2018-12-04T19:28:48Z
+macshine/coupling	https://github.com/macshine/coupling		Matlab and Python scripts for calculating functional coupling between time series data	2014-12-19T19:33:03Z
+esurface/smanage	https://github.com/esurface/smanage		Slurm Manage for submitting and useful reporting on job arrays	2018-08-17T15:15:55Z
+tabakg/tabakg.github.io	https://github.com/tabakg/tabakg.github.io		My blog	2016-11-10T05:18:58Z
+Kitware/paraviewweb	https://github.com/Kitware/paraviewweb	http://kitware.github.io/paraviewweb/	Web framework for building interactive visualization relying on VTK or ParaView to produce visualization data	2016-02-12T21:19:15Z
+akheron/jansson	https://github.com/akheron/jansson	http://www.digip.org/jansson/	C library for encoding, decoding and manipulating JSON data	2009-04-23T06:35:33Z
+SimVascular/SimVascular	https://github.com/SimVascular/SimVascular		A comprehensive opensource software package providing a complete pipeline from medical image data segmentation to patient specific blood flow simulation and analysis.	2015-08-21T18:01:19Z
+mmore500/presentation-template	https://github.com/mmore500/presentation-template		A LaTeX Beamer template for presentations using the Metropolis theme.	2017-11-14T19:26:46Z
+Kaggle/kaggle-api	https://github.com/Kaggle/kaggle-api		Official Kaggle API	2018-01-25T03:02:39Z
+BU-ISCIII/nextflow-scif	https://github.com/BU-ISCIII/nextflow-scif		This is a demo about how to develop and deploy a pipeline using nextflow, scif, a container (Singularity and Docker) and its posterior deployment.	2018-08-02T13:35:55Z
+ivmartel/dwv	https://github.com/ivmartel/dwv	https://ivmartel.github.io/dwv/	DICOM Web Viewer: open source zero footprint medical image viewer.	2011-09-21T07:31:32Z
+jumpingrivers/podcasts	https://github.com/jumpingrivers/podcasts	https://jumpingrivers.github.io/podcasts/	A collection of Data Science and Statistics podcasts	2017-07-14T09:49:43Z
+jupyterhub/repo2docker	https://github.com/jupyterhub/repo2docker	https://repo2docker.readthedocs.io	Turn repositories into Jupyter-enabled Docker images	2017-05-09T08:36:30Z
+binder-examples/continuous-build	https://github.com/binder-examples/continuous-build		Show how to use continuous integration to test your dependency specifications	2018-07-17T14:39:03Z
+FelixHenninger/lab.js	https://github.com/FelixHenninger/lab.js	https://lab.js.org/	Online research made easy	2015-12-08T14:03:13Z
+dnanexus/dxWDL	https://github.com/dnanexus/dxWDL		Workflow Description Language compiler for the DNAnexus platform	2017-02-27T18:43:01Z
+hpcugent/vsc-install	https://github.com/hpcugent/vsc-install		Shared setuptools functions and classes for python libraries developed by UGent's HPC group	2015-10-15T08:30:59Z
+olifre/dockerhub2oci	https://github.com/olifre/dockerhub2oci		Simple shell tool to pull from DockerHub and create an OCI image	2018-01-03T18:25:51Z
+sajjadtorabian/singularity_recipes	https://github.com/sajjadtorabian/singularity_recipes			2018-04-07T00:47:08Z
+amojarro/carrierseq	https://github.com/amojarro/carrierseq		a sequence analysis workflow for low-input nanopore sequencing	2017-05-31T15:11:18Z
+aschinchon/mandalas-colored	https://github.com/aschinchon/mandalas-colored		An R experiment about Voronoi tesselation to create colored mandalas	2018-03-11T09:23:15Z
+eilon-s/sherlock_vep	https://github.com/eilon-s/sherlock_vep			2018-03-13T18:31:18Z
+NVIDIA/hpc-container-maker	https://github.com/NVIDIA/hpc-container-maker		HPC Container Maker	2018-03-22T19:26:41Z
+marktext/website	https://github.com/marktext/website	https://marktext.app	The website of Mark Text	2018-03-05T10:16:02Z
+StanfordCosyne/pancakes	https://github.com/StanfordCosyne/pancakes		testing MRI processing pipelines in SPM with containers	2018-02-02T23:20:13Z
+AIM-Project/AIM-Manuscript	https://github.com/AIM-Project/AIM-Manuscript		"This repo contains supporting documents for the manuscript ""Defining the AIM: An Abstraction for Improving Machine Learning Prediction"""	2017-10-05T21:13:24Z
+opencontainers/runc	https://github.com/opencontainers/runc	https://www.opencontainers.org/	CLI tool for spawning and running containers according to the OCI specification	2015-06-05T23:30:45Z
+thoughtfulbloke/sorting_stat	https://github.com/thoughtfulbloke/sorting_stat		A Hogwarts style Twitter account sorter	2017-12-31T04:59:43Z
+fbartusch/snakemake_tutorial	https://github.com/fbartusch/snakemake_tutorial			2018-01-22T18:23:16Z
+NrgXnat/xnat-docker-compose	https://github.com/NrgXnat/xnat-docker-compose		Build an XNAT server configuration with Docker Compose	2017-10-16T13:04:31Z
+stats285/stats285.github.io	https://github.com/stats285/stats285.github.io		STATS285 course website	2017-07-22T06:36:45Z
+YeoLab/yeolab.github.io	https://github.com/YeoLab/yeolab.github.io	https://github.com/YeoLab/yeolab.github.io-source	Do not edit this repo! Everything here is machine-generated by Travis-CI every time we push to the yeolab/yeolab.github.io-source page	2015-01-27T21:49:01Z
+cjprybol/singularity-testing	https://github.com/cjprybol/singularity-testing			2016-08-12T15:55:05Z
+mmdavid/test_formatting	https://github.com/mmdavid/test_formatting			2017-01-21T23:36:17Z
+tabakg/quantum_state_diffusion	https://github.com/tabakg/quantum_state_diffusion		Solving quantum state diffusion numerically.	2016-11-05T00:19:19Z
+RuiShu/kaos	https://github.com/RuiShu/kaos		Deep variational inference library for Keras	2016-11-12T01:31:50Z
+poldrack/forward-modeling-cognitive-concepts	https://github.com/poldrack/forward-modeling-cognitive-concepts			2016-08-13T21:43:04Z
+poldracklab/lonestar5_launch	https://github.com/poldracklab/lonestar5_launch		updates to parametric launcher on TACC/lonestar5	2016-04-09T08:44:23Z
+bissettp/bissettp.github.io	https://github.com/bissettp/bissettp.github.io		my personal website	2015-11-17T22:37:05Z
+poldrack/cogat-neo4j	https://github.com/poldrack/cogat-neo4j		convert cognitive atlas dumps into neo4j graph database	2015-10-02T14:18:12Z
+poldrack/myconnectome-vm	https://github.com/poldrack/myconnectome-vm		Virtual machine setup for MyConnectome data analysis	2015-05-21T14:28:40Z
+poldrack/myconnectome	https://github.com/poldrack/myconnectome		Code for the myconnectome project	2014-07-06T20:22:28Z
+macshine/dynamac	https://github.com/macshine/dynamac		dynamic connectivity analysis of HCP data	2015-05-18T22:09:31Z
+manbat-zz/neuro-info	https://github.com/manbat-zz/neuro-info		tutorials and examples for Neuroimaging Informatics: an Introduction to Image Processing and Visualization for Brains	2014-12-26T22:18:03Z
